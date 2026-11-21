@@ -1,0 +1,9 @@
+# Thresholds used by scripts/02_clean.py (reasons in README, "Cleaning").
+min_duration_s: 1.0        # sub-second clips are single interjections, often cut mid-word
+max_duration_s: 30.0       # Whisper's 30 s window; also bounds GPU memory for our training
+rate_robust_z: 3.5         # |chars/s - median| / (1.4826 * MAD) above this -> misaligned text
+silence_frame_db: 40.0     # a 25 ms frame is "silent" if it is this many dB below the clip's loudest frame
+max_silence_fraction: 0.5  # more than half silent frames -> mostly silence
+min_peak_dbfs: -40.0       # loudest 25 ms frame quieter than this -> near-silent clip
+clip_level: 0.999          # |sample| at or above this counts as clipped
+max_clipped_fraction: 0.001

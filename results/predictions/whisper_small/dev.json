@@ -1,0 +1,14 @@
+{
+  "model_id": "openai/whisper-small",
+  "revision": "973afd24965f72e36ca33b3055d56a652f456b4d",
+  "family": "B7 pretrained AED (Whisper, multilingual)",
+  "decoding": "greedy (num_beams=1), no timestamps",
+  "language": "language='polish', task='transcribe'",
+  "precision": "fp16",
+  "batch_size": 8,
+  "compute_seconds": 74.81,
+  "seed": 1234,
+  "trained_by_us": false,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 1072.9
+}

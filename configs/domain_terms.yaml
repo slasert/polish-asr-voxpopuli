@@ -1,0 +1,24 @@
+# Parliamentary key terms for the key-term recall analysis. Each entry is a stem: any reference
+# word that starts with it counts (Polish inflects nouns, e.g. komisja/komisji/komisję).
+# Chosen by hand from EU-parliament vocabulary before looking at any system output.
+stems:
+  - komisj        # commission
+  - parlament     # parliament
+  - rad           # council (rada, rady, radzie) - also "radzić"; kept, documented
+  - uni           # union (unia, unii)
+  - europejsk     # European
+  - państw        # state(s)
+  - członkowsk    # member (państwa członkowskie)
+  - sprawozda     # report / rapporteur
+  - rezolucj      # resolution
+  - dyrektyw      # directive
+  - rozporządze   # regulation
+  - przewodnicz   # president / chair
+  - komisarz      # commissioner
+  - posł          # MEP (poseł, posłowie)
+  - budżet        # budget
+  - obywatel      # citizen
+  - poprawk       # amendment
+  - głosowa       # vote
+  - porozumieni   # agreement
+  - polityk       # policy / politician

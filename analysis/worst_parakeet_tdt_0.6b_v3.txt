@@ -1,0 +1,60 @@
+=== 20151125-0900-PLENARY-16-pl_20151125-16-59-57_0 (13 word errors)
+sentence 1
+REF: w mojej wypowiedzi szanowny kolego nie było żadnego stwierdzenia że zbyt wiele pieniędzy wydajemy na
+HYP: w mojej ********** ******** ****** *** **** ******* ************ ** **** ***** ********* ******** **
+                      D        D      D   D    D       D            D  D    D     D         D        D  D
+
+=== 20131023-0900-PLENARY-13-pl_20131023-18-33-01_5 (10 word errors)
+sentence 1
+REF: z drugiej strony  chciałem powiedzieć że znając trochę rosjan * federację rosyjską i politykę rosyjską i to jak traktuje takie sprawy jak platformy wiertnicze czy inne instalacje i urządzenia to można by powiedzieć że dobrze **    iż skończyło się        to tylko na tym
+HYP: z drugiej strony chciałbym powiedzieć że znając trochę rosjan i federację rosyjską i politykę rosyjską i to jak traktuję takie sprawy jak platformy wiertnicze czy inne instalacje i urządzenia to można by powiedzieć że dobrze że tylko       tak się skończyło ***** ** ***
+                              S                                    I                                                        S                                                                                                          I     S         S             S     D  D   D
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_3 (10 word errors)
+sentence 1
+REF: ze szwedzkich badań prowadzonych kilka lat temu   wynika że ojcowie na urlopach wychowawczych      woleli   polować na łosia albo   oglądać telewizję i   czytać gazety niż   zajmować się dzieckiem
+HYP: ze szwedzkich badań prowadzonych kilka lat temu wynikało że ojcowie na   urlopa wychowawczych preferowali polowanie na łosie albo oglądanie telewizji i czytanie  gazet niż zajmowanie się dzieckiem
+                                                            S                      S                         S         S        S              S         S          S      S              S              
+
+=== 20170404-0900-PLENARY-11-pl_20170404-13-05-41_1 (10 word errors)
+sentence 1
+REF: głosowaliśmy za sprawozdaniem próbującym uregulować problem określany katastrofą ekologiczną ************        xxi wieku skutkujący zatruciem i chorobami ludzi w indonezji borneo na sumatrze i na przyległych obszarach zniszczeniem zwierząt       w wyniku wylesiania i wypalaniem lasów tropikalnych pod uprawy oleju palmowego stosowanego
+HYP: głosowaliśmy za      raportem próbującym uregulować problem określany katastrofą ekologiczną dwudziestego pierwszego wieku skutkujące zatruciem i chorobami ludzi w indonezji  boria na sumatrze * ** przyległych obszarach zniszczeniem zwierząt wskutek ****** wylesiania i wypalaniem lasów tropikalnych pod uprawę oleju palmowego stosowanego
+                                 S                                                                           I          S                S                                              S             D  D                                                   S      D                                                     S                            
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_0 (9 word errors)
+sentence 1
+REF: panie przewodniczący właśnie dlatego że unia europejska pretenduje do roli światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie   pomagać kobietom w godzeniu       ich powołania żony i matki
+HYP: panie przewodniczący właśnie dlatego że unia europejska pretenduje do **** światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie wysokości ******** w    ogóle wysokości ********* **** * *****
+                                                                              D                                                                                                                                                                           S        D          S         S         D    D D     D
+
+=== 20131023-0900-PLENARY-11-pl_20131023-17-02-42_0 (8 word errors)
+sentence 1
+REF: panie przewodniczący pani komisarz skuteczność i spójność polityki zagranicznej unii europejskiej sprawdzi się na wschodzie jeśli pani i my wszyscy będziemy skuteczni w tym co nazywamy wymiarem wschodnim unii europejskiej jeśli to wszystko zakończy się sukcesem ** pani przejdzie do historii * ** **** **** ************
+HYP: ***** ************** pani komisarz skuteczność i spójność polityki zagranicznej unii europejskiej sprawdzi się na wschodzie jeśli pani i my wszyscy będziemy skuteczni w tym co nazywamy wymiarem wschodnim unii europejskiej jeśli to wszystko zakończy się sukcesem to pani przejdzie do historii i to jest unii europejskiej
+         D              D                                                                                                                                                                                                                                                   I                            I  I    I    I            I
+
+=== 20131022-0900-PLENARY-5-pl_20131022-10-42-51_3 (7 word errors)
+sentence 1
+REF: ja ubolewam nad tym ******** ponieważ uważam że * unii europejskiej potrzeba **** więcej pieniędzy inwestycyjnych więcej pieniędzy ** ** by wzmocnić gospodarkę i więcej pieniędzy na to by wspólnie działać w unii europejskiej
+HYP: ja ******** nad tym ubolewam ponieważ uważam że w unii europejskiej potrzeba jest więcej pieniędzy inwestycyjnych więcej pieniędzy na to by wzmocnić gospodarkę * więcej pieniędzy na to by wspólnie działać w unii europejskiej
+               D                I                    I                               I                                                   I  I                        D                                                               
+
+=== 20090218-0900-PLENARY-21-pl_20090218-22-25-46_3 (6 word errors)
+sentence 1
+REF: w tym czasie kiedy doświadczamy załamania gospodarczego nie możemy sobie pozwolić na błąd zaniedbania wobec nauki i badań wobec ludzi którzy pracują w ***** tej dziedzinie popieram więc działania dotyczące ********** prawnego umocowania europejskiej infrastruktury badawczej eri
+HYP: w tym czasie   gdy doświadczamy załamania gospodarczego nie możemy sobie pozwolić na błąd zaniedbania wobec nauki i badań wobec ludzi którzy pracują w nauce   i  badaniach popieram więc działania dotyczące umocowania prawnego ********** europejskiej infrastruktury badawczej eri
+                      S                                                                                                                                         I   S          S                                            I                   D                                          
+
+=== 20131010-0900-PLENARY-22-pl_20131010-15-27-45_8 (6 word errors)
+sentence 1
+REF: *** na masową skalę celowo eksterminuje się ******* ludzi tylko dlatego że są chrześcijanami dlatego trzeba zacząć działać a nie tylko mówić na rezolucję już *****       jest za późno teraz chodzi o konkretne działania
+HYP: tak na masową skalę celowo eksterminuje się morduje ludzi tylko dlatego że są chrześcijanami dlatego trzeba zacząć działać a nie tylko mówić na rezolucje już można powiedzieć za późno teraz chodzi o konkretne działanie
+       I                                               I                                                                                                     S         I          S                                           S
+
+=== 20131021-0900-PLENARY-12-pl_20131021-20-34-35_2 (6 word errors)
+sentence 1
+REF:   opinia ta dotyczyła prekursorów narkotyków z jednej strony mamy do czynienia ze zorganizowanymi grupami przestępczymi i gwałtownie rosnącym rynkiem narkotyków syntetycznych w europie czego nie możemy lekceważyć
+HYP: dotycząc ** ********* prekursorów narkotyków z jednej strony mamy do czynienia  z  organizowanymi grupami przestępczymi * gwałtownie rosnącym rynkiem narkotyków syntetycznych w europie czego nie możemy lekceważyć
+            S  D         D                                                           S               S                       D                                                                                           
+

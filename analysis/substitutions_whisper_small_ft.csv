@@ -1,0 +1,21 @@
+ref,hyp,count,type
+o,unii,2,other
+chcę,chce,2,diacritic only
+unią,unię,2,other
+sudanu,słudanu,2,other
+między,pomiędzy,2,other
+istnieją,są,2,other
+banku,banków,2,"inflection (same stem, different ending)"
+małżeństw,małżeń,2,"inflection (same stem, different ending)"
+upokorzenia,pokorzenia,1,other
+niezgoda,zgoda,1,other
+zbigniew,bigniew,1,other
+wykorzystywaniu,wykorzystywania,1,"inflection (same stem, different ending)"
+kary,kar,1,other
+kiedy,gdy,1,other
+tej,i,1,other
+dziedzinie,badaniach,1,other
+iż,że,1,other
+też,jest,1,other
+ponadto,konieczna,1,other
+konieczna,nad,1,other

@@ -1,0 +1,50 @@
+{
+  "dev": {
+    "system": "hubert_large_pl_s484",
+    "split": "dev",
+    "model_id": "jonatasgrosman/exp_w2v2t_pl_hubert_s484",
+    "revision": "0c43b3d301a2b4336fa6f42e7145765b841c9127",
+    "family": "B6 SSL + CTC (HuBERT-large, fine-tuned on Common Voice 7 pl by its author)",
+    "decoding": "greedy CTC (argmax), no language model",
+    "language": "pl (model is pl-only)",
+    "precision": "fp16",
+    "batch_size": 4,
+    "compute_seconds": 21.28,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 2038.6,
+    "normalized": {
+      "wer": 0.6627316198445905,
+      "mer": 0.6363897259291147,
+      "wil": 0.844384171804619,
+      "cer": 0.18417275038963168,
+      "sub": 3355,
+      "del": 803,
+      "ins": 277,
+      "hits": 2534,
+      "n_ref_words": 6692,
+      "char_sub": 3022,
+      "char_del": 3559,
+      "char_ins": 2400,
+      "n_ref_chars": 48764,
+      "n_utts": 316
+    },
+    "orthographic": {
+      "wer": 0.737895995218171,
+      "cer": 0.20930700237300406,
+      "sub": 3890,
+      "del": 787,
+      "ins": 261,
+      "n_ref_words": 6692
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.6612226550794127,
+      "cer": 0.1824954211511946,
+      "n_utts": 307
+    },
+    "audio_seconds": 3225.806,
+    "rtfx": 151.59,
+    "commit": "uncommitted"
+  }
+}

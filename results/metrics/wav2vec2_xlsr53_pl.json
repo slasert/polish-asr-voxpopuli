@@ -1,0 +1,98 @@
+{
+  "dev": {
+    "system": "wav2vec2_xlsr53_pl",
+    "split": "dev",
+    "model_id": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+    "revision": "6b1cea36bd8bc5f65ec8081667cd9c0207d51970",
+    "family": "B5 SSL + CTC (wav2vec 2.0 XLSR-53, fine-tuned on Common Voice pl by its author)",
+    "decoding": "greedy CTC (argmax), no language model",
+    "language": "pl (model is pl-only)",
+    "precision": "fp16",
+    "batch_size": 4,
+    "compute_seconds": 21.41,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 2038.6,
+    "normalized": {
+      "wer": 0.3511655708308428,
+      "mer": 0.3352832073048937,
+      "wil": 0.5089893418633171,
+      "cer": 0.1156180789106718,
+      "sub": 1630,
+      "del": 403,
+      "ins": 317,
+      "hits": 4659,
+      "n_ref_words": 6692,
+      "char_sub": 1640,
+      "char_del": 2194,
+      "char_ins": 1804,
+      "n_ref_chars": 48764,
+      "n_utts": 316
+    },
+    "orthographic": {
+      "wer": 0.48565451285116557,
+      "cer": 0.1429232192414431,
+      "sub": 2561,
+      "del": 388,
+      "ins": 301,
+      "n_ref_words": 6692
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.34926580761162723,
+      "cer": 0.11380239952256498,
+      "n_utts": 307
+    },
+    "audio_seconds": 3225.806,
+    "rtfx": 150.67,
+    "commit": "uncommitted"
+  },
+  "test": {
+    "system": "wav2vec2_xlsr53_pl",
+    "split": "test",
+    "model_id": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+    "revision": "6b1cea36bd8bc5f65ec8081667cd9c0207d51970",
+    "family": "B5 SSL + CTC (wav2vec 2.0 XLSR-53, fine-tuned on Common Voice pl by its author)",
+    "decoding": "greedy CTC (argmax), no language model",
+    "language": "pl (model is pl-only)",
+    "precision": "fp16",
+    "batch_size": 4,
+    "compute_seconds": 21.53,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 2031.1,
+    "normalized": {
+      "wer": 0.3122969837587007,
+      "mer": 0.29827153198404494,
+      "wil": 0.45639472549288884,
+      "cer": 0.09156810377718429,
+      "sub": 1366,
+      "del": 349,
+      "ins": 304,
+      "hits": 4750,
+      "n_ref_words": 6465,
+      "char_sub": 1101,
+      "char_del": 1868,
+      "char_ins": 1351,
+      "n_ref_chars": 47178,
+      "n_utts": 336
+    },
+    "orthographic": {
+      "wer": 0.4637277648878577,
+      "cer": 0.1224265087773969,
+      "sub": 2370,
+      "del": 337,
+      "ins": 291,
+      "n_ref_words": 6465
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.31175468483816016,
+      "cer": 0.0907797804810734,
+      "n_utts": 332
+    },
+    "audio_seconds": 3182.267,
+    "rtfx": 147.81,
+    "commit": "uncommitted"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "model_id": "nvidia/parakeet-tdt-0.6b-v3",
+  "revision": "541d1f99c6b0c3cd0b11a95167540bb8edefd82b",
+  "family": "B9 pretrained transducer (Parakeet TDT, FastConformer)",
+  "decoding": "model-card default (greedy TDT)",
+  "language": "no language argument: the model detects the language itself (see model card)",
+  "precision": "fp32",
+  "batch_size": 4,
+  "compute_seconds": 26.73,
+  "seed": 1234,
+  "trained_by_us": false,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 3168.2
+}

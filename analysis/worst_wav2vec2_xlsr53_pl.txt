@@ -1,0 +1,60 @@
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_0 (26 word errors)
+sentence 1
+REF: ***** ** ***** ****** **** ************* ****** panie przewodniczący ***  właśnie dlatego że unia europejska pretenduje do roli światowego lidera jeśli chodzi      o prawa kobiet powinniśmy     w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne  mężczyzn i kobiet i prawnie pomagać kobietom w godzeniu ich powołania żony i matki
+HYP: mogłe hi jaemy leptui tile krubodziękuję bardzo   pan przewodniczący aje właśniej dlatego że unia europejska pretenduje do **** światowego lidera jeśli chodzi oprała ***** kobiet powinniśmy wrama      h realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzni * kobiet i prawnie ******* ******** * ******** *** ********* **** * *****
+         I  I     I      I    I             I      I     S                  I        S                                             D                                     S     D                       S      S                                                                             S D                        D        D D        D   D         D    D D     D
+
+=== 20110926-0900-PLENARY-18-pl_20110926-22-19-08_5 (20 word errors)
+sentence 1
+REF: natomiast * moja grupa polityczna będzie głosować przeciwko temu **** sprawozdaniu   przede wszystkim dlatego że znalazły się tam takie trochę ideologiczne sformułowania o       ciągłej próbie budowy wspólnej ************ europejskiej tożsamości i z tego właściwie powodu ********   ecr będzie głosowało przeciwko **** *********** ** sprawozdaniu
+HYP: natomiast o moja gruba polityczna będzie głosować przeciwko temu temu    raportowi sprzedew      skim dlatego że znalazły się tam takie trochę ideologiczne  sformuowania o ciągłejpróbie ****** budowy wspólnej europajskiej           to    samości i z tego właścibie powodu będziemy siahr będzie  głosował przeciwko pana raportowial do            e
+               I          S                                              I            S        S         S                                                                   S               S      D                            I            S          S                  S               I     S                S              I           I  I            S
+
+=== 20171004-0900-PLENARY-7-pl_20171004-12-54-41_0 (20 word errors)
+sentence 1
+REF:  pani przewodnicząca oczywiście popieram w projekcie rezolucji wyeliminowanie możliwości zawierania ** małżeństw przez dzieci jakie dotyczy zwłaszcza ******* środowisk imigranckich i przynajmniej w naszej ********       kulturze chrześcijańskiej europejskiej traktowane jest      od dawna jako przemoc i         przestępstwo istniejące   także      w    prawie międzynarodowym
+HYP: natem          clupa oczywiście popieram w projekcie  rezoluci wieliminowanie możliwości zawierania ma    małżeń przez dzieci jakie dotyczy zwłaszcza środowi         s imigranckich i przynajmniej w naszej kultórze chrześcijański                i europejskiej traktowany jest oddawna ***** jako przemoc i przestępswojsniające      tekże wprawie między narodowym ***************
+         S              S                                         S              S                        I         S                                            I         S                                             I              S                S                       S            S     D                                   S          S       S      S         S               D
+
+=== 20090311-0900-PLENARY-16-pl_20090311-17-00-01_4 (19 word errors)
+sentence 1
+REF: głównym problemem jest kwestia nazwy która niezależnie od     tego    że        jest kwestią bilateralną niezależną        od    kryteriów kopenhaskich oddziałuje na sytuację polityczną * na drodze negocjacji macedonii do unii     europejskiej mamy wolę grecji mamy wolę samej macedonii
+HYP: głównym problemem jest kwestja nazwy która niezaleźnie  o teożejst wecją bilateralną     nie     zależdą         od kriteriów kopenchadzki            o działywuje na sytuację polityczną e na drodze negocjacji macedonii do  uni europejskiejmamy wole **** grecji mamy wole samej macedonii
+                                  S                       S  S        S     S           S       S           S          S         S            S            S          S                        I                                      S                S    S    D                S                
+
+=== 20140915-0900-PLENARY-13-pl_20140915-17-16-55_16 (17 word errors)
+sentence 1
+REF: należy przemyśleć uruchomienie         już kolejnego etapu zbierania powiadomień         od   rolników co nie jest           w sprzeczności z dokonanym zamknięciem i prowadzeniem  kontroli     i oceny wniosków bo sytuacja w     tym  względzie jest dynamiczna
+HYP:   leży przemyśleć   urówmienie jużkolniego ********* etapu  zbierami          na powiadomiń odrolników co nie jest przeczności ************ z dokonanym zamknięciem i prowadzeniem kontrolii odcen ***** wniosków bo sytuacja w mwydzie zdramiczna **** **********
+          S                       S           S         D               S           S          S          S                       S            D                                                S     S     D                              S          S    D          D
+
+=== 20171115-0900-PLENARY-12-pl_20171115-13-58-18_3 (17 word errors)
+sentence 1
+REF: poparcie     dla        tego nieustannie nękanego i krytykowanego a nawet zastraszonego odebraniem funduszy rządu rośnie dlatego   polacy zadają sobie pytanie czy ****** ***** *** nie chodzi ** tutaj raczej o prześladowanie i niechęć do katolickiej ** tożsamości polskiego narodu nieustannie poddawanego
+HYP:    arcie dlatego nieustannie       nękaw nękanego i krytykowanego a nawet zastraszanego  debraniem funduszy rządu rośnie dlatego polacyca   dają    se pytanie czy chodzi tutaj czy nie chodzi tu   tej raczej o prześladowanie * niechęć do katolickiej to    samości polskiego narodu nieustannie poddawanego
+            S       S           S           S                                              S          S                                      S      S     S                  I     I   I             I     S                         D                         I          S                                         
+
+=== 20131024-0900-PLENARY-3-pl_20131024-09-07-25_14 (16 word errors)
+sentence 1
+REF: jeżeli któryś kraj ma wzorcowy dostęp do telekomunikacji te wzorce powinny być transportowane do wszystkich innych  krajów ważne jest ********** absolutnie zmniejszenie obciążeń administracyjnych bo   one są   tak  naprawdę blokadą dla rozwoju sieci **** telekomunikacyjnej i ********* dostępu      do rynku
+HYP:     li któryś kraj na wzorcowy dostęp do telekomunikacji te wzorcy powinny być transportowane we wszystkich innych krajach ważne jest zmieszenie absolutnie     obciążek ******** administracyjnych bo oneby są ptaką nanprawdę blokadą dla rozwoju sieci tele     komunikacyjnej i dostępnym dostępu dorynku *****
+          S              S                                            S                             S                         S                     I                       S        D                          S        S         S                              I                  S           I               S     D
+
+=== 20140915-0900-PLENARY-13-pl_20140915-17-16-55_18 (16 word errors)
+sentence 1
+REF:             w  imieniu komisji agri chcielibyśmy prosić pana o przekazanie posłom do parlamentu europejskiego aktualnych informacji       o działaniach       już podjętych i planowanych przez komisję europejską
+HYP: wniukomicjagi sieliśmy   prosi **** ************ ****** pana u przekazanie posłół do  palamentu  eropejskiego aktualnych informacji odnosie  dziawaniuż podiętych ********* i planowanych przez komisjo   ropeńsko
+                 S        S       S    D            D      D      S                  S             S             S                             S           S         S         D                           S          S
+
+=== 20140915-0900-PLENARY-13-pl_20140915-17-16-55_9 (16 word errors)
+sentence 1
+REF: uważamy jednak że przeznaczone na ten cel środki finansowe są dalekie               od wystarczających w obliczu skali    i   wpływu embarga na naszych producentów co więcej   jako        że kryzys ten jest przede wszystkim natury politycznej i nie powstał w wyniku    załamania rynku ani też *** niepomyślnych warunków pogodowych
+HYP: uważamy jednak że przeznaczone na ten cel środki finansowe są dalekie odystarczających *************** w obliczu     z kali wpływały embarga na naszych   prucentów co więcej jakoże kryzysten ****** *** jest przede wszystkim natury politycznej * nie powstał * wyniku zamaniarynku ***** ani też nie       pomyśli warunków pogodowych
+                                                                                          S               D               S    S        S                              S                S         S      D   D                                          D             D                   S     D           I             S                    
+
+=== 20090312-0900-PLENARY-16-pl_20090312-15-51-07_11 (15 word errors)
+sentence 1
+REF: parlament europejski     w swojej rezolucji zwraca się do   onz oraz ****** międzynarodowego trybunału      karnego o zbadanie    na ile ostatnia decyzja sudańskiego przywódcy nie wyczerpuje * znamion zbrodni wojennej      w świetle  prawa międzynarodowego
+HYP:  palament europejski swoje ****** rezolucji zwraca się do łęzek oraz między       narodowego trybunału kryminalnego o zbadanie naile *** ostatnia decyzja sudańskiego przywódcy nie wyczerpuje z   namią zbrodni wojennej śleple   prawa między        narodoweg
+             S                S      D                             S           I                S                      S                S   D                                                       I       S                       S       S      S                S
+

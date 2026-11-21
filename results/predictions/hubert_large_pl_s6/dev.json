@@ -1,0 +1,14 @@
+{
+  "model_id": "jonatasgrosman/exp_w2v2t_pl_hubert_s6",
+  "revision": "1c177047c5f74061be360783af9c8f30d842283f",
+  "family": "B6 SSL + CTC (HuBERT-large, fine-tuned on Common Voice 7 pl by its author)",
+  "decoding": "greedy CTC (argmax), no language model",
+  "language": "pl (model is pl-only)",
+  "precision": "fp16",
+  "batch_size": 4,
+  "compute_seconds": 28.36,
+  "seed": 1234,
+  "trained_by_us": false,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 2038.6
+}

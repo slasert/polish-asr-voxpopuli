@@ -1,0 +1,18 @@
+# Our contribution: full fine-tuning of openai/whisper-small on our Polish train split.
+name: whisper_small_ft
+base_model: openai/whisper-small
+base_revision: 973afd24965f72e36ca33b3055d56a652f456b4d
+language: polish
+target: text_orth            # cased + punctuated transcript, the format Whisper produces
+optim: adafactor             # factored second moments: fits a 4 GB GPU, AdamW does not
+learning_rate: 1.0e-5
+warmup_steps: 100
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 4   # effective batch 16 utterances
+num_train_epochs: 6
+eval_steps: 150              # dev WER (greedy decoding) every 150 optimizer steps
+early_stopping_patience: 3
+per_device_eval_batch_size: 8
+fp16: true
+gradient_checkpointing: true
+generation_max_length: 225

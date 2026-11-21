@@ -1,0 +1,2 @@
+# One global seed. Every script reads it through src/config.py.
+seed: 1234

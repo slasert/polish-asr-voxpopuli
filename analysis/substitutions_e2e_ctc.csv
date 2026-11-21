@@ -1,0 +1,21 @@
+ref,hyp,count,type
+i,w,4,other
+dla,la,4,other
+się,sę,3,other
+zwiększamy,zwiększany,3,"inflection (same stem, different ending)"
+z,w,3,other
+w,z,3,other
+jest,z,3,other
+europejskiej,europejskie,3,"inflection (same stem, different ending)"
+jest,jesto,3,"inflection (same stem, different ending)"
+jest,s,2,other
+jest,je,2,other
+jest,to,2,other
+i,mi,2,other
+przez,przes,2,"inflection (same stem, different ending)"
+będą,bęndą,2,other
+i,ij,2,other
+oraz,w,2,other
+w,na,2,other
+żeby,że,2,other
+jaką,jakom,2,other

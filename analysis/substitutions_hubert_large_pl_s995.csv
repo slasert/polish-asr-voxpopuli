@@ -1,0 +1,21 @@
+ref,hyp,count,type
+unii,uni,15,other
+jest,jes,7,other
+z,s,5,other
+dla,la,4,other
+z,w,3,other
+że,re,3,other
+jak,jaki,3,other
+skalę,skale,3,diacritic only
+unii,unie,3,other
+się,sie,3,diacritic only
+widzę,widze,3,diacritic only
+o,oto,3,other
+europejskiej,europejskie,3,"inflection (same stem, different ending)"
+unii,ni,3,other
+niektórych,których,3,other
+federacji,federacj,3,"inflection (same stem, different ending)"
+energii,energi,3,"inflection (same stem, different ending)"
+jeśli,jeżli,2,other
+nauki,nałki,2,other
+nakładów,kładów,2,other

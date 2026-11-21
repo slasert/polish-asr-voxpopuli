@@ -1,0 +1,98 @@
+{
+  "dev": {
+    "system": "parakeet_tdt_0.6b_v3",
+    "split": "dev",
+    "model_id": "nvidia/parakeet-tdt-0.6b-v3",
+    "revision": "541d1f99c6b0c3cd0b11a95167540bb8edefd82b",
+    "family": "B9 pretrained transducer (Parakeet TDT, FastConformer)",
+    "decoding": "model-card default (greedy TDT)",
+    "language": "no language argument: the model detects the language itself (see model card)",
+    "precision": "fp32",
+    "batch_size": 4,
+    "compute_seconds": 26.73,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 3168.2,
+    "normalized": {
+      "wer": 0.08921099820681411,
+      "mer": 0.08748534583821806,
+      "wil": 0.13271801102823189,
+      "cer": 0.048806496595849395,
+      "sub": 322,
+      "del": 143,
+      "ins": 132,
+      "hits": 6227,
+      "n_ref_words": 6692,
+      "char_sub": 628,
+      "char_del": 953,
+      "char_ins": 799,
+      "n_ref_chars": 48764,
+      "n_utts": 316
+    },
+    "orthographic": {
+      "wer": 0.12477585176329946,
+      "cer": 0.053533362828299076,
+      "sub": 570,
+      "del": 138,
+      "ins": 127,
+      "n_ref_words": 6692
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.08915193287383878,
+      "cer": 0.048937089704278396,
+      "n_utts": 307
+    },
+    "audio_seconds": 3225.806,
+    "rtfx": 120.68,
+    "commit": "uncommitted"
+  },
+  "test": {
+    "system": "parakeet_tdt_0.6b_v3",
+    "split": "test",
+    "model_id": "nvidia/parakeet-tdt-0.6b-v3",
+    "revision": "541d1f99c6b0c3cd0b11a95167540bb8edefd82b",
+    "family": "B9 pretrained transducer (Parakeet TDT, FastConformer)",
+    "decoding": "model-card default (greedy TDT)",
+    "language": "no language argument: the model detects the language itself (see model card)",
+    "precision": "fp32",
+    "batch_size": 4,
+    "compute_seconds": 25.91,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 3164.7,
+    "normalized": {
+      "wer": 0.06604795050270688,
+      "mer": 0.06491334752204317,
+      "wil": 0.09449934477402988,
+      "cer": 0.034083683072618595,
+      "sub": 199,
+      "del": 115,
+      "ins": 113,
+      "hits": 6151,
+      "n_ref_words": 6465,
+      "char_sub": 328,
+      "char_del": 670,
+      "char_ins": 610,
+      "n_ref_chars": 47178,
+      "n_utts": 336
+    },
+    "orthographic": {
+      "wer": 0.09899458623356536,
+      "cer": 0.038267373013399816,
+      "sub": 424,
+      "del": 109,
+      "ins": 107,
+      "n_ref_words": 6465
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.06582004026637757,
+      "cer": 0.03409549285608136,
+      "n_utts": 332
+    },
+    "audio_seconds": 3182.267,
+    "rtfx": 122.82,
+    "commit": "uncommitted"
+  }
+}

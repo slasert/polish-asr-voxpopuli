@@ -1,0 +1,60 @@
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_0 (18 word errors)
+sentence 1
+REF: **** ******** *********** ***** ******** ****** panie przewodniczący właśnie dlatego że unia europejska pretenduje do roli światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie pomagać kobietom w godzeniu ich powołania żony i matki
+HYP: lowo ekigyjna leptoikiria krupa dziękuję bardzo  pani przewodniczący właśnie dlatego że unia europejska pretenduje do **** światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnicę psychofizyczne mężczyzn i kobiet i prawnie ******* ******** * ******** *** ********* **** * *****
+        I        I           I     I        I      I     S                                                                    D                                                                                                                      S                                                  D        D D        D   D         D    D D     D
+
+=== 20131023-0900-PLENARY-13-pl_20131023-18-26-48_4 (16 word errors)
+sentence 1
+REF: ******* widzimy dziś przedstawicieli ambasady rosyjskiej których *******  należy tutaj ****** przywitać którzy oglądają ***** dzisiejszą debatę ale którzy ******* będą również bardzo uważnie patrzeć na to jak unia europejska potrafi obronić przed kuriozalnymi i śmiesznymi zarzutami obywateli  państw            unii europejskiej
+HYP: dzisiaj widzimy **** przedstawicieli ambasady  rosyjskie których których których tutaj należy przywitać którzy oglądają naszą dzisiejszą debatę ale którzy również będą ******* bardzo uważnie  paczyć na to jak unia europejska potrafi obronić przed  kuryzalnymi i śmiecznymi  zajętami obywateli państwu nieuropejskiego ************
+           I            D                                   S               I       S            I                               I                                    I            D                      S                                                            S            S         S                 S               S            D
+
+=== 20171004-0900-PLENARY-7-pl_20171004-12-54-41_0 (16 word errors)
+sentence 1
+REF:  pani przewodnicząca oczywiście popieram w projekcie  rezolucji wyeliminowanie możliwości zawierania małżeństw przez dzieci jakie dotyczy zwłaszcza  środowisk imigranckich    i przynajmniej w naszej kulturze chrześcijańskiej europejskiej  traktowane jest      od dawna jako  przemoc     i przestępstwo istniejące także w prawie międzynarodowym
+HYP: madam         kroupa oczywiście popieram w projekcie rozlicznie    wyliminanie możliwości zawierania małżeństw przez dzieci jakie dotyczy zwłaszcza środowisko imigrantskie przy         nami w naszej kulturze chrześcijańskiej europejskiej traktowanej    z oddawna ***** jako przemocy przez         stem   wojsiącą także w prawie międzynarodowym
+         S              S                                          S              S                                                                               S            S    S            S                                                           S    S       S     D             S     S            S          S                               
+
+=== 20110705-0900-PLENARY-6-pl_20110705-14-27-39_2 (15 word errors)
+sentence 1
+REF: * otóż unia europejska w ramach  swoich granic dąży do tego aby w sposób radykalny obniżyć emisję gazów ************** cieplarnianych zamykając jednak oczy na fakt że inne kraje takie jak chiny indie kraje byłego związku ************ sowieckiego bynajmniej nie zamierzają tego czynić zwiększają produkcję i zwiększają równolegle emisję
+HYP: o  tuż unii europejska w ramach swojego granic dąży do tego aby * sposób radikalny obniżyć emisje gazów siępłarnianych        zamkają       się jednak oczy na fakt że inne kraje takie jak chiny indie kraje byłego związku siedziskiego          by   najmniej nie   zamierzą tego czynić zwiększają produkcję i zwiększają równolegle emisje
+     I    S    S                           S                         D                S              S                    I              S         S                                                                                         I           S          S              S                                                               S
+
+=== 20131010-0900-PLENARY-22-pl_20131010-15-06-39_8 (15 word errors)
+sentence 1
+REF:           to są państwa którym pomagamy w ramach pomocy rozwojowej z którymi współpracujemy na ile jest to możliwe   tak że powinniśmy robić wszystko żeby zapobiec dalszym atakom i  prześladowaniom
+HYP: kontynuujemy ** ******* ****** ******** * ****** ****** ********** * ******* współpracujemy na ile jest to możliwe także ** powinniśmy robić wszystko  aby zapobiec dalszym atakom i przesładowowaniu
+                S  D       D      D        D D      D      D          D D       D                                           S  D                              S                                          S
+
+=== 20151125-0900-PLENARY-16-pl_20151125-16-59-57_0 (15 word errors)
+sentence 1
+REF:        w mojej wypowiedzi szanowny kolego nie  było żadnego stwierdzenia że zbyt wiele pieniędzy wydajemy na
+HYP: przaczać     o        tym       co   leży  co sąsem     się          pan ** **** ***** ********* ******** **
+            S     S          S        S      S   S     S       S            S  D    D     D         D        D  D
+
+=== 20170404-0900-PLENARY-11-pl_20170404-13-05-41_1 (15 word errors)
+sentence 1
+REF: głosowaliśmy za ******* sprawozdaniem próbującym uregulować problem określany katastrofą ekologiczną xxi wieku skutkujący zatruciem i chorobami ludzi w indonezji borneo na sumatrze i na przyległych obszarach zniszczeniem zwierząt      w     wyniku wylesiania i wypalaniem lasów tropikalnych pod uprawy oleju palmowego stosowanego
+HYP: goszowaliśmy za raporem      próbując         mu  regulować problem określony katastrofą ekologiczną  xx wieku skutkujące zatruciem i chorobami ludzi w indonezji   borę na sumatrze * ** przyległych obszarach zniszczeniem zwierząt skutek wyleczenia ********** i wypalaniem lasów tropikalnych pod uprawą oleju palmowego stosowanego
+                S          I             S          S          S                 S                          S                S                                              S             D  D                                                  S          S          D                                          S                            
+
+=== 20110926-0900-PLENARY-18-pl_20110926-22-19-08_5 (14 word errors)
+sentence 1
+REF: natomiast moja grupa polityczna będzie głosować przeciwko temu ****** sprawozdaniu przede   wszystkim dlatego że znalazły się tam takie trochę ideologiczne sformułowania o ciągłej próbie budowy wspólnej europejskiej tożsamości i z tego właściwie powodu ******** ecr będzie głosowało przeciwko ************* *** sprawozdaniu
+HYP: natomiast moja grupa polityczna będzie głosować przeciwko temu temoru      portowi      z przedewskim dlatego że znalazło się tam takie trochę ideologiczne   zformowanie o ciągłej próbie budowy wspólnej europejskiej  tosamości i z tego   właśnie powodu będziemy icr będzie  głosował przeciwko paneraportowi ale           do
+                                                                         I            S      S           S                   S                                               S                                                        S                  S               I   S                S                       I   I            S
+
+=== 20131021-0900-PLENARY-12-pl_20131021-20-34-35_2 (14 word errors)
+sentence 1
+REF: opinia ta dotyczyła prekursorów narkotyków z jednej strony mamy       do       czynienia      ze zorganizowanymi grupami przestępczymi i gwałtownie rosnącym rynkiem narkotyków syntetycznych w europie czego nie możemy ***** lekceważyć
+HYP: trzącą ** ********* prekursorów narkotyków z jednej strony mamy doczynia zorganizowanych grupami           przez     tym          czym * gwałtownie roszącym rynkiem narkotyków  sytemicznych w europie czego nie możemy lekce      wążyć
+          S  D         D                                                    S               S       S               S       S             S D                   S                                S                                I          S
+
+=== 20140915-0900-PLENARY-13-pl_20140915-17-16-55_15 (14 word errors)
+sentence 1
+REF: większość rolników szczególnie drobnych w nowych państwach członkowskich nie przynależy jeszcze do grup  producentów czy   zrzeszeń branżowych dlatego nie należy różnicować  poziomu wsparcia pomiędzy rolnikami  zrzeszonymi a niezrzeszonymi
+HYP: większość  rolików szczególnie drobnych w   nowy     kresą       kowstyk nie   przenosi jeszcze do grup rozczynstych czy zreszczony    prasowy dlatego nie należy różnicować poziomów  sparcia pomiędzy  rolikami zreszczonymi i niezreszczonym
+                      S                             S         S             S              S                            S              S          S                                      S        S                  S            S S              S
+

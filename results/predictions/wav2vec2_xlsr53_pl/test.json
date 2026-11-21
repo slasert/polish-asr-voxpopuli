@@ -1,0 +1,14 @@
+{
+  "model_id": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+  "revision": "6b1cea36bd8bc5f65ec8081667cd9c0207d51970",
+  "family": "B5 SSL + CTC (wav2vec 2.0 XLSR-53, fine-tuned on Common Voice pl by its author)",
+  "decoding": "greedy CTC (argmax), no language model",
+  "language": "pl (model is pl-only)",
+  "precision": "fp16",
+  "batch_size": 4,
+  "compute_seconds": 21.53,
+  "seed": 1234,
+  "trained_by_us": false,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 2031.1
+}

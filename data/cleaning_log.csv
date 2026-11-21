@@ -1,0 +1,432 @@
+utt_id,speaker,issue,action,detail
+20090325-0900-PLENARY-8-pl_20090325-16-20-23_2,28392,CHARSET_RESTORED,fixed,millna->millána
+20090507-0900-PLENARY-20-pl_20090507-15-58-37_13,28391,CHARSET_RESTORED,fixed,pttering->pöttering
+20110913-0900-PLENARY-12-pl_20110913-15-08-39_21,None,CHARSET_RESTORED,fixed,potonikowi->potočnikowi
+20111115-0900-PLENARY-11-pl_20111115-17-09-24_13,None,CHARSET_RESTORED,fixed,cancn->cancún
+20121212-0900-PLENARY-15-pl_20121212-20-35-08_24,96793,CHARSET_RESTORED,fixed,gnter->günter
+20131022-0900-PLENARY-19-pl_20131022-20-03-07_11,96793,CHARSET_RESTORED,fixed,tefana->štefana; flego->fülego
+20150909-0900-PLENARY-17-pl_20150909-21-38-46_0,124881,CHARSET_RESTORED,fixed,fontagn->fontagné
+20150909-0900-PLENARY-17-pl_20150909-21-38-46_4,124881,CHARSET_RESTORED,fixed,ojdrov->šojdrová
+20160509-0900-PLENARY-12-pl_20160509-20-26-54_9,132925,CHARSET_RESTORED,fixed,efovi->šefčovič
+20170912-0900-PLENARY-5-pl_20170912-10-05-40_1,28269,CHARSET_RESTORED,fixed,caete->cañete
+20180115-0900-PLENARY-11-pl_20180115-19-06-14_1,28269,CHARSET_RESTORED,fixed,caete->cañete
+20180205-0900-PLENARY-14-pl_20180205-18-20-26_3,124897,CHARSET_RESTORED,fixed,fernndeza->fernándeza
+20180207-0900-PLENARY-9-pl_20180207-13-13-22_4,124879,CHARSET_RESTORED,fixed,hbner->hübner
+20180529-0900-PLENARY-3-pl_20180529-09-26-11_7,28288,CHARSET_RESTORED,fixed,creu->crețu
+20180704-0900-PLENARY-pl_20180704-11-34-24_23,None,CHARSET_RESTORED,fixed,juregui->jáuregui
+20180611-0900-PLENARY-10-pl_20180611-17-39-35_2,124897,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-pl_20180611-17-39-35_2
+20180611-0900-PLENARY-10-pl_20180611-17-39-35_3,124897,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-pl_20180611-17-39-35_3
+20180611-0900-PLENARY-11-pl_20180611-18-30-22_4,96784,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-pl_20180611-18-30-22_4
+20180611-0900-PLENARY-12-pl_20180611-18-59-14_0,124874,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-pl_20180611-18-59-14_0
+20180611-0900-PLENARY-12-pl_20180611-18-59-14_10,124874,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-pl_20180611-18-59-14_10
+20180611-0900-PLENARY-12-pl_20180611-18-59-14_5,124874,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-pl_20180611-18-59-14_5
+20180611-0900-PLENARY-pl_20180611-18-30-22_5,96784,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-11-pl_20180611-18-30-22_5
+20180611-0900-PLENARY-pl_20180611-18-59-14_11,124874,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-12-pl_20180611-18-59-14_11
+20180611-0900-PLENARY-pl_20180611-18-59-14_6,124874,DUP_SEGMENT,removed,duplicate of 20180611-0900-PLENARY-12-pl_20180611-18-59-14_6
+20180612-0900-PLENARY-13-pl_20180612-16-00-24_2,124894,DUP_SEGMENT,removed,duplicate of 20180612-0900-PLENARY-pl_20180612-16-00-24_2
+20180612-0900-PLENARY-20-pl_20180612-21-57-53_3,96784,DUP_SEGMENT,removed,duplicate of 20180612-0900-PLENARY-pl_20180612-21-57-53_3
+20180612-0900-PLENARY-pl_20180612-16-00-24_3,124894,DUP_SEGMENT,removed,duplicate of 20180612-0900-PLENARY-13-pl_20180612-16-00-24_3
+20180612-0900-PLENARY-pl_20180612-16-00-24_5,124894,DUP_SEGMENT,removed,duplicate of 20180612-0900-PLENARY-13-pl_20180612-16-00-24_5
+20180612-0900-PLENARY-pl_20180612-16-00-24_6,124894,DUP_SEGMENT,removed,duplicate of 20180612-0900-PLENARY-13-pl_20180612-16-00-24_6
+20180614-0900-PLENARY-11-pl_20180614-12-51-04_1,192298,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-pl_20180614-12-51-04_1
+20180614-0900-PLENARY-11-pl_20180614-12-51-04_5,192298,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-pl_20180614-12-51-04_5
+20180614-0900-PLENARY-3-pl_20180614-09-14-27_12,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-pl_20180614-09-14-27_12
+20180614-0900-PLENARY-3-pl_20180614-09-14-27_2,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-pl_20180614-09-14-27_2
+20180614-0900-PLENARY-3-pl_20180614-09-14-27_4,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-pl_20180614-09-14-27_4
+20180614-0900-PLENARY-pl_20180614-09-14-27_10,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-3-pl_20180614-09-14-27_10
+20180614-0900-PLENARY-pl_20180614-09-14-27_11,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-3-pl_20180614-09-14-27_11
+20180614-0900-PLENARY-pl_20180614-09-14-27_3,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-3-pl_20180614-09-14-27_3
+20180614-0900-PLENARY-pl_20180614-09-14-27_7,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-3-pl_20180614-09-14-27_7
+20180614-0900-PLENARY-pl_20180614-09-14-27_8,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-3-pl_20180614-09-14-27_8
+20180614-0900-PLENARY-pl_20180614-09-14-27_9,124898,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-3-pl_20180614-09-14-27_9
+20180614-0900-PLENARY-pl_20180614-12-51-04_4,192298,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-11-pl_20180614-12-51-04_4
+20180614-0900-PLENARY-pl_20180614-12-51-04_6,192298,DUP_SEGMENT,removed,duplicate of 20180614-0900-PLENARY-11-pl_20180614-12-51-04_6
+20180702-0900-PLENARY-12-pl_20180702-18-12-38_1,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-pl_20180702-18-12-38_1
+20180702-0900-PLENARY-12-pl_20180702-18-12-38_10,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-pl_20180702-18-12-38_10
+20180702-0900-PLENARY-12-pl_20180702-18-12-38_11,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-pl_20180702-18-12-38_11
+20180702-0900-PLENARY-12-pl_20180702-18-12-38_5,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-pl_20180702-18-12-38_5
+20180702-0900-PLENARY-12-pl_20180702-18-12-38_6,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-pl_20180702-18-12-38_6
+20180702-0900-PLENARY-pl_20180702-18-12-38_12,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-12-pl_20180702-18-12-38_12
+20180702-0900-PLENARY-pl_20180702-18-12-38_4,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-12-pl_20180702-18-12-38_4
+20180702-0900-PLENARY-pl_20180702-18-12-38_8,28394,DUP_SEGMENT,removed,duplicate of 20180702-0900-PLENARY-12-pl_20180702-18-12-38_8
+20180704-0900-PLENARY-20-pl_20180704-20-42-43_1,124902,DUP_SEGMENT,removed,duplicate of 20180704-0900-PLENARY-pl_20180704-20-42-43_1
+20180704-0900-PLENARY-20-pl_20180704-20-42-43_2,124902,DUP_SEGMENT,removed,duplicate of 20180704-0900-PLENARY-pl_20180704-20-42-43_2
+20180704-0900-PLENARY-20-pl_20180704-20-42-43_3,124902,DUP_SEGMENT,removed,duplicate of 20180704-0900-PLENARY-pl_20180704-20-42-43_3
+20180704-0900-PLENARY-pl_20180704-20-42-43_4,124902,DUP_SEGMENT,removed,duplicate of 20180704-0900-PLENARY-20-pl_20180704-20-42-43_4
+20180704-0900-PLENARY-pl_20180704-20-42-43_5,124902,DUP_SEGMENT,removed,duplicate of 20180704-0900-PLENARY-20-pl_20180704-20-42-43_5
+20180704-0900-PLENARY-pl_20180704-20-42-43_6,124902,DUP_SEGMENT,removed,duplicate of 20180704-0900-PLENARY-20-pl_20180704-20-42-43_6
+20180705-0900-PLENARY-11-pl_20180705-12-58-19_2,28341,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-12-58-19_2
+20180705-0900-PLENARY-11-pl_20180705-12-58-19_3,28341,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-12-58-19_3
+20180705-0900-PLENARY-11-pl_20180705-12-58-19_4,28341,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-12-58-19_4
+20180705-0900-PLENARY-3-pl_20180705-09-29-05_10,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-09-29-05_10
+20180705-0900-PLENARY-3-pl_20180705-09-29-05_4,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-09-29-05_4
+20180705-0900-PLENARY-3-pl_20180705-09-29-05_5,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-09-29-05_5
+20180705-0900-PLENARY-3-pl_20180705-09-29-05_7,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-09-29-05_7
+20180705-0900-PLENARY-4-pl_20180705-10-23-02_1,124896,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-10-23-02_1
+20180705-0900-PLENARY-4-pl_20180705-10-23-02_5,124896,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-10-23-02_5
+20180705-0900-PLENARY-4-pl_20180705-10-23-02_7,124896,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-10-23-02_7
+20180705-0900-PLENARY-4-pl_20180705-10-24-53_2,28353,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-pl_20180705-10-24-53_2
+20180705-0900-PLENARY-pl_20180705-09-29-05_0,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_0
+20180705-0900-PLENARY-pl_20180705-09-29-05_1,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_1
+20180705-0900-PLENARY-pl_20180705-09-29-05_11,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_11
+20180705-0900-PLENARY-pl_20180705-09-29-05_12,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_12
+20180705-0900-PLENARY-pl_20180705-09-29-05_2,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_2
+20180705-0900-PLENARY-pl_20180705-09-29-05_6,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_6
+20180705-0900-PLENARY-pl_20180705-09-29-05_8,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_8
+20180705-0900-PLENARY-pl_20180705-09-29-05_9,124881,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-3-pl_20180705-09-29-05_9
+20180705-0900-PLENARY-pl_20180705-10-23-02_2,124896,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-4-pl_20180705-10-23-02_2
+20180705-0900-PLENARY-pl_20180705-10-23-02_3,124896,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-4-pl_20180705-10-23-02_3
+20180705-0900-PLENARY-pl_20180705-10-23-02_4,124896,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-4-pl_20180705-10-23-02_4
+20180705-0900-PLENARY-pl_20180705-10-23-02_6,124896,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-4-pl_20180705-10-23-02_6
+20180705-0900-PLENARY-pl_20180705-10-24-53_1,28353,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-4-pl_20180705-10-24-53_1
+20180705-0900-PLENARY-pl_20180705-12-58-19_0,28341,DUP_SEGMENT,removed,duplicate of 20180705-0900-PLENARY-11-pl_20180705-12-58-19_0
+20180911-0900-PLENARY-pl_20180911-19-15-37_0,28353,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-witholdRO-pl_20180911-19-15-37_0
+20180911-0900-PLENARY-witholdRO-pl_20180911-19-15-37_1,28353,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-19-15-37_1
+20180911-0900-PLENARY-witholdRO-pl_20180911-22-11-57_1,124898,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-22-11-57_1
+20180911-0900-PLENARY-witholdRO-pl_20180911-23-08-16_1,28394,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-23-08-16_1
+20180911-0900-PLENARY-witholdRO-pl_20180911-23-08-16_2,28394,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-23-08-16_2
+20180911-0900-PLENARY-witholdRO-pl_20180911-23-08-16_3,28394,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-23-08-16_3
+20180911-0900-PLENARY-witholdRO-pl_20180911-23-08-16_4,28394,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-23-08-16_4
+20180911-0900-PLENARY-witholdRO-pl_20180911-23-08-16_5,28394,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-23-08-16_5
+20180911-0900-PLENARY-witholdRO-pl_20180911-23-08-16_8,28394,DUP_SEGMENT,removed,duplicate of 20180911-0900-PLENARY-pl_20180911-23-08-16_8
+20180912-0900-PLENARY-pl_20180912-20-28-30_1,124874,DUP_SEGMENT,removed,duplicate of 20180912-0900-PLENARY-widetrim-pl_20180912-20-28-30_1
+20180912-0900-PLENARY-widetrim-pl_20180912-20-28-30_3,124874,DUP_SEGMENT,removed,duplicate of 20180912-0900-PLENARY-pl_20180912-20-28-30_3
+20090205-0900-PLENARY-13-pl_20090205-16-14-22_0,28387,DUP_UTT,removed,duplicate of 20090312-0900-PLENARY-5-pl_20090312-11-51-03_0
+20110913-0900-PLENARY-12-pl_20110913-15-08-39_29,None,DUP_UTT,removed,duplicate of 20111026-0900-PLENARY-16-pl_20111026-19-04-41_0
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_26,None,DUP_UTT,removed,duplicate of 20111026-0900-PLENARY-16-pl_20111026-19-04-41_0
+20110914-0900-PLENARY-12-pl_20110914-19-54-23_0,None,DUP_UTT,removed,duplicate of 20111026-0900-PLENARY-16-pl_20111026-19-04-41_0
+20110928-0900-PLENARY-7-pl_20110928-16-39-34_35,None,DUP_UTT,removed,duplicate of 20110913-0900-PLENARY-12-pl_20110913-15-08-39_30
+20111115-0900-PLENARY-13-pl_20111115-19-44-45_0,None,DUP_UTT,removed,duplicate of 20110706-0900-PLENARY-4-pl_20110706-13-12-02_0
+20131010-0900-PLENARY-22-pl_20131010-15-10-44_0,28377,DUP_UTT,removed,duplicate of 20171026-0900-PLENARY-3-pl_20171026-09-56-36_0
+20131010-0900-PLENARY-22-pl_20131010-15-27-45_0,96803,DUP_UTT,removed,duplicate of 20131021-0900-PLENARY-12-pl_20131021-20-34-35_0
+20151027-0900-PLENARY-16-pl_20151027-21-26-10_0,132925,DUP_UTT,removed,duplicate of 20150908-0900-PLENARY-13-pl_20150908-18-21-49_0
+20170316-0900-PLENARY-3-pl_20170316-09-40-28_0,135540,DUP_UTT,removed,duplicate of 20170403-0900-PLENARY-20-pl_20170403-22-39-43_0
+20170515-0900-PLENARY-12-pl_20170515-20-18-52_0,124874,DUP_UTT,removed,duplicate of 20160707-0900-PLENARY-17-pl_20160707-16-28-49_0
+20170912-0900-PLENARY-5-pl_20170912-10-05-40_0,28269,DUP_UTT,removed,duplicate of 20170405-0900-PLENARY-14-pl_20170405-17-54-43_0
+20180611-0900-PLENARY-pl_20180611-18-59-14_0,124874,DUP_UTT,removed,duplicate of 20160707-0900-PLENARY-17-pl_20160707-16-28-49_0
+20180614-0900-PLENARY-pl_20180614-09-14-27_12,124898,DUP_UTT,removed,duplicate of 20180614-0900-PLENARY-3-pl_20180614-09-14-27_8
+20180614-0900-PLENARY-pl_20180614-12-51-04_5,192298,DUP_UTT,removed,duplicate of 20180614-0900-PLENARY-11-pl_20180614-12-51-04_6
+20090205-0900-PLENARY-4-pl_20090205-11-17-32_9,28373,DURATION_OUTLIER,removed,31.30s
+20090311-0900-PLENARY-16-pl_20090311-17-00-01_3,28392,DURATION_OUTLIER,removed,0.66s
+20090312-0900-PLENARY-5-pl_20090312-11-35-10_2,34930,DURATION_OUTLIER,removed,0.90s
+20090325-0900-PLENARY-8-pl_20090325-16-04-24_7,28343,DURATION_OUTLIER,removed,0.68s
+20090326-0900-PLENARY-10-pl_20090326-15-37-44_8,28387,DURATION_OUTLIER,removed,0.88s
+20090507-0900-PLENARY-20-pl_20090507-15-58-37_11,28391,DURATION_OUTLIER,removed,0.82s
+20110706-0900-PLENARY-3-pl_20110706-11-01-17_1,96779,DURATION_OUTLIER,removed,0.84s
+20110913-0900-PLENARY-12-pl_20110913-15-08-39_31,None,DURATION_OUTLIER,removed,0.86s
+20110913-0900-PLENARY-12-pl_20110913-15-08-39_32,None,DURATION_OUTLIER,removed,0.54s
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_27,None,DURATION_OUTLIER,removed,0.56s
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_38,None,DURATION_OUTLIER,removed,0.58s
+20110913-0900-PLENARY-4-pl_20110913-09-44-34_34,None,DURATION_OUTLIER,removed,0.74s
+20110914-0900-PLENARY-3-pl_20110914-09-04-35_9,None,DURATION_OUTLIER,removed,32.08s
+20110928-0900-PLENARY-7-pl_20110928-16-39-34_44,None,DURATION_OUTLIER,removed,0.94s
+20111026-0900-PLENARY-15-pl_20111026-18-51-55_8,None,DURATION_OUTLIER,removed,0.90s
+20111116-0900-PLENARY-9-pl_20111116-17-01-22_15,None,DURATION_OUTLIER,removed,32.38s
+20120702-0900-PLENARY-15-pl_20120702-20-28-00_0,28379,DURATION_OUTLIER,removed,38.22s
+20130206-0900-PLENARY-10-pl_20130206-16-21-10_7,28372,DURATION_OUTLIER,removed,0.74s
+20130313-0900-PLENARY-12-pl_20130313-19-01-23_10,96802,DURATION_OUTLIER,removed,1.00s
+20130313-0900-PLENARY-12-pl_20130313-19-01-23_8,96802,DURATION_OUTLIER,removed,0.66s
+20130910-0900-PLENARY-9-pl_20130910-13-17-11_1,23788,DURATION_OUTLIER,removed,30.92s
+20131120-0900-PLENARY-18-pl_20131120-20-18-45_8,96788,DURATION_OUTLIER,removed,31.18s
+20150128-0900-PLENARY-9-pl_20150128-19-23-20_8,124886,DURATION_OUTLIER,removed,0.86s
+20150210-0900-PLENARY-12-pl_20150210-18-13-08_3,124899,DURATION_OUTLIER,removed,30.34s
+20150909-0900-PLENARY-17-pl_20150909-21-38-46_0,124881,DURATION_OUTLIER,removed,36.24s
+20170314-0900-PLENARY-3-pl_20170314-11-48-34_1,28379,DURATION_OUTLIER,removed,30.36s
+20171025-0900-PLENARY-18-pl_20171025-15-40-09_5,28284,DURATION_OUTLIER,removed,1.00s
+20171115-0900-PLENARY-12-pl_20171115-13-58-18_2,28334,DURATION_OUTLIER,removed,30.92s
+20171115-0900-PLENARY-4-pl_20171115-09-24-40_40,96796,DURATION_OUTLIER,removed,0.92s
+20171115-0900-PLENARY-4-pl_20171115-09-24-40_56,96796,DURATION_OUTLIER,removed,0.98s
+20171115-0900-PLENARY-4-pl_20171115-09-24-40_8,96796,DURATION_OUTLIER,removed,0.86s
+20180530-0900-PLENARY-24-pl_20180530-18-30-25_0,96784,DURATION_OUTLIER,removed,52.86s
+20180704-0900-PLENARY-pl_20180704-10-36-22_11,124902,DURATION_OUTLIER,removed,0.92s
+20180704-0900-PLENARY-pl_20180704-10-36-22_27,124902,DURATION_OUTLIER,removed,0.72s
+20180704-0900-PLENARY-pl_20180704-11-34-24_52,None,DURATION_OUTLIER,removed,0.56s
+20180911-0900-PLENARY-witholdRO-pl_20180911-23-08-16_0,28394,DURATION_OUTLIER,removed,35.08s
+20180913-0900-PLENARY-pl_20180913-12-47-53_4,124874,DURATION_OUTLIER,removed,31.75s
+20090205-0900-PLENARY-3-pl_20090205-10-40-11_1,28374,MISSING_ORTH,removed,raw_text empty
+20120216-0900-PLENARY-1-pl_20120216-09-03-17_1,23782,MISSING_ORTH,removed,raw_text empty
+20120216-0900-PLENARY-3-pl_20120216-09-03-17_1,23782,MISSING_ORTH,removed,raw_text empty
+20131023-0900-PLENARY-13-pl_20131023-18-18-03_2,96800,MISSING_ORTH,removed,raw_text empty
+20140227-0900-PLENARY-8-pl_20140227-11-32-42_2,28300,MISSING_ORTH,removed,raw_text empty
+20140702-0900-PLENARY-6-pl_20140702-10-53-56_4,28297,MISSING_ORTH,removed,raw_text empty
+20170405-0900-PLENARY-14-pl_20170405-17-54-43_8,28269,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_10,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_11,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_12,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_13,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_14,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_15,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_16,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_17,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_18,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_19,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_20,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_22,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_4,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_7,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_8,28284,MISSING_ORTH,removed,raw_text empty
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_9,28284,MISSING_ORTH,removed,raw_text empty
+20170913-0900-PLENARY-13-pl_20170913-18-19-38_1,124881,MISSING_ORTH,removed,raw_text empty
+20171003-0900-PLENARY-4-pl_20171003-11-13-28_9,23781,MISSING_ORTH,removed,raw_text empty
+20171130-0900-PLENARY-5-pl_20171130-10-07-47_12,135540,MISSING_ORTH,removed,raw_text empty
+20180911-0900-PLENARY-pl_20180911-22-11-57_2,124898,MISSING_ORTH,removed,raw_text empty
+20180911-0900-PLENARY-pl_20180911-22-11-57_3,124898,MISSING_ORTH,removed,raw_text empty
+20180911-0900-PLENARY-pl_20180911-22-11-57_4,124898,MISSING_ORTH,removed,raw_text empty
+20180911-0900-PLENARY-witholdRO-pl_20180911-22-11-57_2,124898,MISSING_ORTH,removed,raw_text empty
+20180911-0900-PLENARY-witholdRO-pl_20180911-22-11-57_3,124898,MISSING_ORTH,removed,raw_text empty
+20180911-0900-PLENARY-witholdRO-pl_20180911-22-11-57_4,124898,MISSING_ORTH,removed,raw_text empty
+20180912-0900-PLENARY-pl_20180912-20-28-30_4,124874,MISSING_ORTH,removed,raw_text empty
+20180912-0900-PLENARY-widetrim-pl_20180912-20-28-30_2,124874,MISSING_ORTH,removed,raw_text empty
+20090202-0900-PLENARY-12-pl_20090202-21-14-40_6,28332,NUM_UNVERIFIED,removed,"2 Coraz więcej uczonych i faktów potwierdza, że jest to nieprawda."
+20090202-0900-PLENARY-9-pl_20090202-17-36-18_2,34930,NUM_UNVERIFIED,removed,"Kampania, która ma potrwać ponad 40 dni, wymierzona jest głównie w uczestników ubiegłorocznych protestów. Nasilają się w"
+20090203-0900-PLENARY-4-pl_20090203-10-48-28_5,28391,NUM_UNVERIFIED,removed,"„szacuje się, że w Unii Europejskiej przebywa od 4,5 do 8 mln nielegalnych imigrantów i liczba ta ciągle wzrasta, w szcz"
+20090203-0900-PLENARY-4-pl_20090203-10-48-28_6,28391,NUM_UNVERIFIED,removed,"Sam fakt, że używa się cyfr od 4,5 mln do 8 mln świadczy, że nawet nie jesteśmy w stanie określić precyzyjnie skali tego"
+20090205-0900-PLENARY-3-pl_20090205-10-22-58_1,24089,NUM_UNVERIFIED,removed,"Osiągnięty kompromis dotyczący pasz ma pewne zalety harmonizuje i upraszcza unijne prawodawstwo, ale ma też zasadnicze w"
+20090205-0900-PLENARY-4-pl_20090205-11-27-24_4,24089,NUM_UNVERIFIED,removed,"Ważne jest jednak, by z omawianych programów skorzystali unijni rolnicy, a szczególnie drobne i średnie gospodarstwa, kt"
+20090218-0900-PLENARY-21-pl_20090218-22-25-46_9,28355,NUM_UNVERIFIED,removed,Dziś dla Unii Europejskiej dane za rok 2007 wskaźnik ten wynosi
+20090309-0900-PLENARY-11-pl_20090309-17-40-00_4,28375,NUM_UNVERIFIED,removed,W roku 1948 Żydzi nie pytali Palestyńczyków o zgodę na powstanie ich państwa.
+20090309-0900-PLENARY-11-pl_20090309-17-48-01_1,28343,NUM_UNVERIFIED,removed,"Po raz kolejny już w tej Izbie jestem zmuszony upomnieć się o prawa mniejszości narodowych na Litwie, które są bezwzględ"
+20090309-0900-PLENARY-11-pl_20090309-17-59-10_0,34930,NUM_UNVERIFIED,removed,"Pani przewodnicząca! Jako osoba, dla której ideały, na których opiera się Unia Europejska, są czymś więcej niż tylko slo"
+20090309-0900-PLENARY-11-pl_20090309-17-59-10_1,34930,NUM_UNVERIFIED,removed,"Jednocześnie zadziwia i zasmuca mnie fakt, że jej termin wyznaczono na 12 marca."
+20090309-0900-PLENARY-11-pl_20090309-17-59-10_2,34930,NUM_UNVERIFIED,removed,"Tym, którzy nie pamiętają przypominam, iż powstanie tybetańskie rozpoczęło się 10 marca."
+20090309-0900-PLENARY-11-pl_20090309-17-59-10_5,34930,NUM_UNVERIFIED,removed,Być może na 10 marca przypada jakaś nieznana mi rocznica związana z tym tematem.
+20090309-0900-PLENARY-12-pl_20090309-18-38-35_1,28374,NUM_UNVERIFIED,removed,Tworzenie budżetu na rok 2010 wymaga nie lada odwagi.
+20090309-0900-PLENARY-12-pl_20090309-18-38-35_5,28374,NUM_UNVERIFIED,removed,"Już w ubiegłym roku, tworząc budżet na rok 2009, z wielkim trudem osiągnięto zakładany poziom finansowania."
+20090309-0900-PLENARY-12-pl_20090309-18-38-35_6,28374,NUM_UNVERIFIED,removed,Czy uda się go utrzymać w roku 2010? Oby tak się stało.
+20090310-0900-PLENARY-7-pl_20090310-11-31-47_4,28382,NUM_UNVERIFIED,removed,"Zasada przejrzystości jest podstawową zasadą Unii Europejskiej, wyrażoną w art. 255 Traktatu ustanawiającego Wspólnotę E"
+20090311-0900-PLENARY-16-pl_20090311-17-00-01_9,28392,NUM_UNVERIFIED,removed,"Dostrzegamy także bardzo wyraźnie wolę polityczną społeczeństwa, władz, grup politycznych tego kraju, który rozwija się "
+20090312-0900-PLENARY-15-pl_20090312-15-28-11_4,28376,NUM_UNVERIFIED,removed,W 1983 roku został zamordowany przywódca demokratycznej opozycji Aquino.
+20090312-0900-PLENARY-16-pl_20090312-15-51-07_1,28392,NUM_UNVERIFIED,removed,"Mam przed sobą list 28 kobiet z Darfuru, którym udało się wydostać ze strefy konfliktu, skierowany do Unii Afrykańskiej "
+20090312-0900-PLENARY-16-pl_20090312-15-51-07_2,28392,NUM_UNVERIFIED,removed,Kobiety darfurskie popierają w piśmie z dnia 4 marca bieżącego roku wydanie nakazu aresztowania przywódcy Sudanu Omara a
+20090312-0900-PLENARY-16-pl_20090312-15-51-07_5,28392,NUM_UNVERIFIED,removed,Omar al Baszir odpowiedział na nakaz aresztowania i międzynarodowy list gończy wydaleniem z Sudanu 13 zagranicznych orga
+20090312-0900-PLENARY-5-pl_20090312-11-35-10_9,34930,NUM_UNVERIFIED,removed,W tym roku skończy on 20 lat.
+20090324-0900-PLENARY-3-pl_20090324-09-16-38_1,28356,NUM_UNVERIFIED,removed,Reforma polityki strukturalnej Unii Europejskiej na lata 2007 pociągnęła za sobą zmiany w strukturze funduszy i zasadach
+20090324-0900-PLENARY-3-pl_20090324-09-16-38_3,28356,NUM_UNVERIFIED,removed,O ile w perspektywie finansowej na lata 2000 środki na rozwój obszarów wiejskich były powiązane z funduszami strukturaln
+20090324-0900-PLENARY-3-pl_20090324-09-51-45_10,28388,NUM_UNVERIFIED,removed,"zrównoważony rozwój. Sadzę, że warto przypatrzeć się danym statystycznym na poziomie NUTS3, nie tylko NUTS2."
+20090324-0900-PLENARY-3-pl_20090324-09-51-45_11,28388,NUM_UNVERIFIED,removed,NUTS2. Dane z NUTS3 znacznie lepiej pokazują istniejący problem.
+20090324-0900-PLENARY-3-pl_20090324-09-54-57_3,28355,NUM_UNVERIFIED,removed,"101. W imię interesów mieszkańców Unii należy zatem wykorzystać wszystkie możliwości, aby pokazać faktyczną solidarność "
+20090324-0900-PLENARY-3-pl_20090324-10-26-07_3,33946,NUM_UNVERIFIED,removed,Mamy do czynienia ze zjawiskiem dużej dysproporcji dopłat do rolnictwa w nowych krajach członkowskich w stosunku do star
+20090325-0900-PLENARY-10-pl_20090325-18-31-20_10,28387,NUM_UNVERIFIED,removed,"I w związku z tym chciałbym zadać pytanie, jakie środki w roku ubiegłym i w roku 2007 zostały nie przyznane, ale wydane,"
+20090325-0900-PLENARY-11-pl_20090325-19-20-42_5,34930,NUM_UNVERIFIED,removed,"Dlatego też po raz kolejny wzywam, by 25 maja, datę jego egzekucji, uczynić Międzynarodowym Dniem Bohaterów Walki z Tota"
+20090325-0900-PLENARY-11-pl_20090325-19-30-30_5,28392,NUM_UNVERIFIED,removed,W grudniu w 1938
+20090326-0900-PLENARY-10-pl_20090326-15-15-42_11,28388,NUM_UNVERIFIED,removed,2013. Dynamiczny rozwój współpracy regionalnej w Europie napotyka częstokroć na przeszkody wynikające właśnie z braku zn
+20090326-0900-PLENARY-3-pl_20090326-10-24-34_14,24089,NUM_UNVERIFIED,removed,"To te gospodarstwa są wykluczane, choć stanowią co najmniej 95 wszystkich gospodarstw rolnych w Unii Europejskiej."
+20090326-0900-PLENARY-3-pl_20090326-10-24-34_3,24089,NUM_UNVERIFIED,removed,"tylko w państwach „starej Unii 43 miliony osób było niedożywionych i aż 79 milionów osób zagrożonych ubóstwem, to jest p"
+20090326-0900-PLENARY-3-pl_20090326-10-43-28_4,28376,NUM_UNVERIFIED,removed,na pewno przekracza 25 mln osób.
+20090326-0900-PLENARY-3-pl_20090326-10-43-28_6,28376,NUM_UNVERIFIED,removed,"Popieram finansowanie pomocy żywnościowej, szczególnie ze środków Unii, uzupełnianej zależnie od możliwości środkami pos"
+20090401-0900-PLENARY-11-pl_20090401-16-16-02_3,33946,NUM_UNVERIFIED,removed,"Oczywiście nie może to się odbywać na dotychczasowych zasadach, kiedy prawie pięćsetmilionowa społeczność Unii Europejsk"
+20090401-0900-PLENARY-14-pl_20090401-19-46-12_5,28355,NUM_UNVERIFIED,removed,"To jest kropelka, bowiem budżet Unii stanowi około 1 PKB krajów członkowskich."
+20090401-0900-PLENARY-15-pl_20090401-20-47-26_1,28325,NUM_UNVERIFIED,removed,Ze smutkiem przyjąłem w zeszłym tygodniu wiadomość o przegłosowaniu wotum nieufności w Pradze dla premiera Mirka Topolán
+20090401-0900-PLENARY-15-pl_20090401-20-49-28_2,34720,NUM_UNVERIFIED,removed,"Aż co drugi wyborca nie wie, czy weźmie udział w tegorocznych wyborach do Parlamentu Europejskiego. Jedynie 30 ankietowa"
+20090401-0900-PLENARY-15-pl_20090401-20-49-28_3,34720,NUM_UNVERIFIED,removed,"Z kolei aż 68 wyborców nie pójdzie do urn, bo są przekonani, że ich głos nie ma znaczenia."
+20090401-0900-PLENARY-15-pl_20090401-20-54-40_2,33946,NUM_UNVERIFIED,removed,"Chciałbym oświadczyć, iż po tej reformie Polska z kraju eksportującego cukier musi obecnie importować około 20 cukru. A "
+20090421-0900-PLENARY-11-pl_20090421-17-31-53_1,28355,NUM_UNVERIFIED,removed,"W Wielkanoc, 13 kwietnia w nocy, jeszcze przed świtem, doszło do wielkiej tragedii w polskim mieście Kamień Pomorski nie"
+20090422-0900-PLENARY-3-pl_20090422-10-19-57_11,34720,NUM_UNVERIFIED,removed,Ze sprzedaży 400 ton złota?
+20090422-0900-PLENARY-3-pl_20090422-10-19-57_2,34720,NUM_UNVERIFIED,removed,"Na początku tego miesiąca dowiedzieliśmy się, że podjęto już wszystkie środki zaradcze przeciwko kryzysowi finansowemu. "
+20090422-0900-PLENARY-3-pl_20090422-10-19-57_3,34720,NUM_UNVERIFIED,removed,O 100 mld wzbogaci się Bank Światowy. Wreszcie 250 mld przeznaczono na dofinansowanie handlu międzynarodowego.
+20090422-0900-PLENARY-3-pl_20090422-10-19-57_5,34720,NUM_UNVERIFIED,removed,"Prezydent Barack Obama powiedział, że zakończony szczyt G 20 będzie punktem zwrotnym w pogoni za ożywieniem gospodarczym"
+20090422-0900-PLENARY-6-pl_20090422-12-27-16_1,28376,NUM_UNVERIFIED,removed,Ostatnim elementem tej strategii jest proponowana dyrektywa w sprawie maszyn do stosowania pestycydów zmieniająca dyrekt
+20090422-0900-PLENARY-6-pl_20090422-12-27-16_6,28376,NUM_UNVERIFIED,removed,"Dzięki temu uzyskano consensus, przyjęto poprawkę 39, a stanowisko to potwierdza Rada."
+20090507-0900-PLENARY-5-pl_20090507-09-23-07_1,28391,NUM_UNVERIFIED,removed,"Celem programu MEDIA 2007 było zachowanie europejskiej tożsamości, różnorodności i dziedzictwa kulturowego, poprawa obie"
+20090507-0900-PLENARY-5-pl_20090507-09-23-07_12,28391,NUM_UNVERIFIED,removed,"Ponadto przed nami kolejne 5 lat Parlamentu Europejskiego i nadzieja, że posłowie przyszłej kadencji uczynią głos Europy"
+20100705-0900-PLENARY-13-pl_20100705-19-53-12_4,309107,NUM_UNVERIFIED,removed,Polityka spójności jako kluczowy instrument realizacji strategii „Europa 2020 powinna odgrywać rolę wiodącą wobec polity
+20110623-0900-PLENARY-6-pl_20110623-10-40-02_1,294142,NUM_UNVERIFIED,removed,"Nie ulega wątpliwości, że polityka spójności powinna pełnić nadal, po roku 2013, tę funkcję, którą pełni obecnie, czyli "
+20110705-0900-PLENARY-12-pl_20110705-21-06-47_10,None,NUM_UNVERIFIED,removed,Po raz pierwszy propozycja dyrektywy została przedstawiona przez Komisję Europejską w marcu 2008 roku.
+20110705-0900-PLENARY-12-pl_20110705-21-06-47_11,None,NUM_UNVERIFIED,removed,Dyskusje nad nią miały miejsce podczas prezydencji francuskiej w drugiej połowie 2008 roku.
+20110705-0900-PLENARY-12-pl_20110705-21-06-47_14,None,NUM_UNVERIFIED,removed,"Zostało jednak uzgodnione, że prace powinny być kontynuowane w celu znalezienia rozwiązania. Rada wznowiła przegląd doss"
+20110705-0900-PLENARY-12-pl_20110705-21-06-47_19,None,NUM_UNVERIFIED,removed,Stanowisko Rady zostało przekazane do Parlamentu Europejskiego podczas pierwszego czytania w dniu 24 marca 2011 r.
+20110705-0900-PLENARY-12-pl_20110705-21-54-57_10,None,NUM_UNVERIFIED,removed,"W tej dyrektywie został uwzględniony najlepszy możliwy system ochrony danych odnoszący się do decyzji z Prüm, jak równie"
+20110705-0900-PLENARY-12-pl_20110705-21-54-57_13,None,NUM_UNVERIFIED,removed,"Chciałbym także wyrazić przekonanie, że 3 państwa członkowskie, które w zasadzie nie będą brały udziału we wprowadzaniu "
+20110705-0900-PLENARY-12-pl_20110705-21-54-57_18,None,NUM_UNVERIFIED,removed,"Jeżeli Pan Przewodniczący pozwoli, jeszcze jedno zdanie dnia 1 lipca Polska objęła prezydencję Unii Europejskiej i służy"
+20110705-0900-PLENARY-12-pl_20110705-21-54-57_9,None,NUM_UNVERIFIED,removed,7 dyrektywy „Cross border enforcement odnosi się właśnie do tej kwestii.
+20110705-0900-PLENARY-5-pl_20110705-12-17-25_3,None,NUM_UNVERIFIED,removed,314 ust.
+20110705-0900-PLENARY-5-pl_20110705-12-17-25_6,None,NUM_UNVERIFIED,removed,"Mogę Państwa zapewnić, że Rada przeanalizuje przedmiotowe poprawki w duchu konstruktywnej współpracy i formalnie przyjmi"
+20110707-0900-PLENARY-11-pl_20110707-15-42-26_1,23788,NUM_UNVERIFIED,removed,Ponad 15 mieszkańców tego największego muzułmańskiego państwa stanowią mniejszości wyznaniowe.
+20110707-0900-PLENARY-12-pl_20110707-16-12-51_3,28377,NUM_UNVERIFIED,removed,Unia nie ustaje też w dążeniu do powszechnego zniesienia kary śmierci zgodnie z rezolucjami przyjętymi przez Zgromadzeni
+20110913-0900-PLENARY-12-pl_20110913-15-08-39_26,None,NUM_UNVERIFIED,removed,"2014. Wszyscy zgadzamy się co do tego, że rynek energii musi być konkurencyjny i dynamiczny."
+20110913-0900-PLENARY-12-pl_20110913-15-08-39_33,None,NUM_UNVERIFIED,removed,"Pragnę wyrazić swoją szczególną wdzięczność za wzmożone wysiłki podjęte przez wszystkie instytucje podczas negocjacji, k"
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_13,None,NUM_UNVERIFIED,removed,"W swoich konkluzjach z dnia 30 maja 2011 roku Rada podkreśliła, jak istotna jest kwestia pobudzenia konkurencyjności i w"
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_15,None,NUM_UNVERIFIED,removed,"2020. Jesteśmy przekonani, że poprzez położenie nacisku na cały proces ustawodawczy możliwe będzie bardziej wszechstronn"
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_35,None,NUM_UNVERIFIED,removed,Ponad 75 tych dokumentów mogło być udostępnianych publicznie.
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_36,None,NUM_UNVERIFIED,removed,W porównaniu do roku 2009 oznacza to około 12 wzrost liczby dokumentów bezpośrednio udostępnianych przez rejestr.
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_37,None,NUM_UNVERIFIED,removed,"Jeśli chodzi o wnioski o dostęp publiczny, sekretariat Rady przeanalizował w 2010 roku ponad 9 tys."
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_39,None,NUM_UNVERIFIED,removed,W przypadku ponad 70 z nich podjęto decyzję o umożliwieniu dostępu do całości dokumentu.
+20110913-0900-PLENARY-13-pl_20110913-16-29-36_42,None,NUM_UNVERIFIED,removed,"W chwili obecnej prowadzimy wstępne dyskusje nad wnioskiem z 2011 roku. Mamy nadzieję, że wkrótce uda nam się uzgodnić p"
+20110913-0900-PLENARY-4-pl_20110913-09-44-34_11,None,NUM_UNVERIFIED,removed,Od początku swej działalności w październiku 2005 r.
+20110913-0900-PLENARY-4-pl_20110913-09-44-34_3,None,NUM_UNVERIFIED,removed,Rada z zadowoleniem przyjmuje osiągnięte porozumienie w sprawie zmiany rozporządzenia Rady nr 2007 ustanawiającego Europ
+20110914-0900-PLENARY-14-pl_20110914-20-14-04_24,None,NUM_UNVERIFIED,removed,"218 ust. 10 Traktatu o Funkcjonowaniu Unii Europejskiej, Parlament Europejski będzie natychmiastowo oraz kompleksowo inf"
+20110914-0900-PLENARY-3-pl_20110914-09-04-35_19,None,NUM_UNVERIFIED,removed,"Według tych obliczeń, gdyby biedny kraj, kraj w kłopotach, miał wystąpić ze strefy euro, albo być wypchnięty ze strefy e"
+20110914-0900-PLENARY-3-pl_20110914-09-04-35_21,None,NUM_UNVERIFIED,removed,"Jeżeli bogaty kraj zdecydowałby się opuścić strefę euro, to koszty w pierwszym roku stanowiłyby 20 do 25 PKB, a później "
+20110914-0900-PLENARY-3-pl_20110914-09-04-35_29,None,NUM_UNVERIFIED,removed,"Oczywiście za wszelką cenę musimy Europę ratować, ale powinniśmy robić w ramach 17 tylko to, co konieczne, aby uratować "
+20110914-0900-PLENARY-3-pl_20110914-09-04-35_38,None,NUM_UNVERIFIED,removed,"Powiedział „Wiesz, po takich wstrząsach gospodarczych, politycznych rzadko się zdarza, żeby po 10 latach nie było także "
+20110928-0900-PLENARY-7-pl_20110928-16-39-34_39,None,NUM_UNVERIFIED,removed,"Muszę powiedzieć, że polska prezydencja uczyniła sobie z tych kwestii jeden z priorytetów i w ciągu następnych dwóch tyg"
+20110928-0900-PLENARY-7-pl_20110928-16-39-34_6,None,NUM_UNVERIFIED,removed,"Minęło już 20 lat i jesteśmy w przededniu bardzo ważnej konferencji, która właśnie w dwudziestą rocznicę tej pierwszej b"
+20110928-0900-PLENARY-7-pl_20110928-18-15-43_24,None,NUM_UNVERIFIED,removed,"Ale jeżeli rozwiną się techniki akumulacji energii już choćby wspomnieć o tym być może ten piękny, idealny świat będzie "
+20111026-0900-PLENARY-13-pl_20111026-15-12-35_13,None,NUM_UNVERIFIED,removed,"7 państw członkowskich Belgia, Dania, Finlandia, Irlandia, Holandia, Portugalia i Szwecja zaoferowało Biuru Wysokiego Ko"
+20111026-0900-PLENARY-13-pl_20111026-15-12-35_14,None,NUM_UNVERIFIED,removed,Uchodźców 408 miejsc do przesiedlenia osób z regionu Afryki Północnej.
+20111026-0900-PLENARY-13-pl_20111026-15-12-35_16,None,NUM_UNVERIFIED,removed,"Wnioskuje się o zapewnienie kwoty 6 euro na każdą przesiedloną osobę dla państwa członkowskiego, które korzysta z Fundus"
+20111026-0900-PLENARY-13-pl_20111026-15-12-35_3,None,NUM_UNVERIFIED,removed,"2008 Pragniemy przypomnieć, że obecny Europejski Fundusz na rzecz Uchodźców na lata 2008 określa kwestię przesiedleń jak"
+20111026-0900-PLENARY-13-pl_20111026-15-12-35_4,None,NUM_UNVERIFIED,removed,Ponadto od 2008 roku w ramach Europejskiego Funduszu na rzecz Uchodźców przeznaczono na ten cel znaczną ilość środków fi
+20111026-0900-PLENARY-13-pl_20111026-15-12-35_5,None,NUM_UNVERIFIED,removed,Zgodnie z obecnie obowiązującymi przepisami państwa członkowskie mają prawo do ubiegania się o kwotę 4 euro za każdą prz
+20111026-0900-PLENARY-13-pl_20111026-15-12-35_6,None,NUM_UNVERIFIED,removed,Głównym celem proponowanych zmian decyzji ustanawiającej Europejski Fundusz na rzecz Uchodźców na lata 2008 jest stworze
+20111115-0900-PLENARY-13-pl_20111115-19-44-45_15,None,NUM_UNVERIFIED,removed,"W maju 2012 roku spodziewamy się, że Rada przyjmie konkluzje w tej sprawie."
+20111115-0900-PLENARY-13-pl_20111115-19-44-45_2,None,NUM_UNVERIFIED,removed,"Rada przyznaje też, że ze względu właśnie na ten wielowymiarowy kryzys, bardziej niż kiedykolwiek, istotne jest dotrzyma"
+20111115-0900-PLENARY-13-pl_20111115-19-44-45_21,None,NUM_UNVERIFIED,removed,W latach 2004 razem z państwami członkowskimi przekazała ponad połowę całej pomocy udzielonej krajom rozwijającym się.
+20111115-0900-PLENARY-13-pl_20111115-19-44-45_26,None,NUM_UNVERIFIED,removed,sprawdzalnych działań na rzecz dopełnienia indywidualnych zobowiązań w zakresie oficjalnej pomocy rozwojowej do 2015 r.
+20111115-0900-PLENARY-13-pl_20111115-19-44-45_27,None,NUM_UNVERIFIED,removed,oraz wymienianie się informacjami na temat tych działań i planowanych wydatków na oficjalną pomoc rozwojową w kolejnym r
+20111117-0900-PLENARY-7-pl_20111117-12-50-02_3,23788,NUM_UNVERIFIED,removed,"Zwiększenie przydziału środków na ten cel jest zatem koniecznością. W zakresie efektywnego gospodarowania zasobami, a ta"
+20111117-0900-PLENARY-7-pl_20111117-12-50-02_4,23788,NUM_UNVERIFIED,removed,"2020. Wspólne europejskie badania i szkolenia sprzyjają konkurencyjności, wzrostowi gospodarczemu oraz doskonaleniu zawo"
+20120313-0900-PLENARY-11-pl_20120313-18-13-57_1,96784,NUM_UNVERIFIED,removed,2007 Dlatego też powinny się w tym roku powiększyć środki na realizację zobowiązań.
+20120313-0900-PLENARY-11-pl_20120313-18-13-57_5,96784,NUM_UNVERIFIED,removed,"wynosił on już 207 mld euro, w 2013"
+20120313-0900-PLENARY-11-pl_20120313-18-13-57_6,96784,NUM_UNVERIFIED,removed,r. potrzeba będzie co najmniej 152 mld euro.
+20120611-0900-PLENARY-16-pl_20120611-20-12-10_1,111126,NUM_UNVERIFIED,removed,"Rosja pozostaje największym dostawcą gazu i ropy, z kolei zależność Unii od importu surowców energetycznych może osiągną"
+20121022-0900-PLENARY-17-pl_20121022-21-05-26_3,111126,NUM_UNVERIFIED,removed,W kontekście dyrektywy CRD4 oraz rozporządzenia CRR pragnę zwrócić uwagę na szczególne położenie banków spółdzielczych i
+20121121-0900-PLENARY-6-pl_20121121-13-39-55_4,23782,NUM_UNVERIFIED,removed,"Nie zgadzam się natomiast z głosami moich kolegów z grupy konserwatystów, albowiem sprawozdanie pana Sonika wyraźnie w p"
+20121122-0900-PLENARY-17-pl_20121122-15-58-08_3,28377,NUM_UNVERIFIED,removed,"90. Podczas gdy dokładne powody obecnego konfliktu nie są znane, wiadomo jednak, że zamieszki doprowadziły do przesiedle"
+20130207-0900-PLENARY-3-pl_20130207-09-30-25_3,23784,NUM_UNVERIFIED,removed,Chcę skorzystać z okazji i podziękować również Europejskiemu Trybunałowi Sprawiedliwości za jego wyrok z 21 czerwca ubie
+20130312-0900-PLENARY-11-pl_20130312-14-15-48_2,96784,NUM_UNVERIFIED,removed,"Warto tutaj wspomnieć, że w poszczególnych państwach przedsiębiorczość ta zatrudnia dzisiaj od 3 do 8 ogółu pracujących."
+20130313-0900-PLENARY-12-pl_20130313-19-01-23_1,96802,NUM_UNVERIFIED,removed,W ciągu ostatnich dwóch lat sytuacja w Syrii ewoluowała od ograniczanego powstania do ogólnokrajowej wojny domowej. Jej 
+20130612-0900-PLENARY-15-pl_20130612-19-02-31_3,96801,NUM_UNVERIFIED,removed,"Otóż, drodzy państwo, to, że jedyna katolicka telewizja w Polsce, Telewizja Trwam, nie uzyskała miejsca na platformie cy"
+20131007-0900-PLENARY-14-pl_20131007-20-07-22_5,111126,NUM_UNVERIFIED,removed,Zachęcam do analizy postanowień trwającej blisko 400 lat unii polsko litewskiej i lektury wydarzeń historycznych.
+20131010-0900-PLENARY-23-pl_20131010-15-59-28_0,96789,NUM_UNVERIFIED,removed,Panie Przewodniczący! Sytuacja w Sudanie jest niezwykle trudna. Apeluję do sudańskiego rządu o zaniechanie przemocy w tł
+20131010-0900-PLENARY-23-pl_20131010-15-59-28_3,96789,NUM_UNVERIFIED,removed,10. Europejskiego Funduszu Rozwoju.
+20131010-0900-PLENARY-23-pl_20131010-16-02-09_1,28299,NUM_UNVERIFIED,removed,"Parlament Europejski nie może pozostać obojętny na fakt, że w ostatnich protestach, które wybuchły po przemówieniu prezy"
+20131022-0900-PLENARY-14-pl_20131022-16-03-00_4,23784,NUM_UNVERIFIED,removed,"przy tworzeniu prawa, które sprzyja korupcji i pozwala na dowolne postępowanie instytucji państwowych. Natomiast mam nie"
+20131022-0900-PLENARY-19-pl_20131022-20-03-07_13,96793,NUM_UNVERIFIED,removed,Ona jest niedokończona i mamy szansę zrobić w ciągu 2 najbliższych miesięcy duży krok.
+20131022-0900-PLENARY-5-pl_20131022-10-42-51_4,96782,NUM_UNVERIFIED,removed,"Tym bardziej było przykre dla mnie, kiedy zobaczyłam stanowisko Rady dotyczące roku 2014, które proponuje dalej idące ci"
+20131022-0900-PLENARY-5-pl_20131022-10-42-51_7,96782,NUM_UNVERIFIED,removed,"To są linie budżetowe, które finansują program Horyzont 2020, dla nauki, linie które wspierają program Erasmus Plus, któ"
+20131023-0900-PLENARY-11-pl_20131023-17-02-42_2,96800,NUM_UNVERIFIED,removed,"Jeśli Pani i my będziemy skuteczni w przeciąganiu Ukrainy na Zachód, jeśli Pani i my będziemy skuteczni w wyciąganiu wię"
+20131024-0900-PLENARY-6-pl_20131024-11-17-53_1,96782,NUM_UNVERIFIED,removed,"Właśnie w tym duchu Europejska Partia Ludowa popiera i będzie chciała, by przyjąć budżet korygujący nr 6 na rok"
+20131024-0900-PLENARY-6-pl_20131024-11-17-53_12,96782,NUM_UNVERIFIED,removed,Będziemy musieli nadal sprostać problemowi pozostałych blisko 4 miliardów euro brakujących w unijnej kasie. Mam nadzieję
+20131024-0900-PLENARY-6-pl_20131024-11-17-53_13,96782,NUM_UNVERIFIED,removed,"Trzeba sobie też jasno powiedzieć, że cały czas nie mamy oficjalnego stanowiska Rady dotyczącego budżetu poprawkowego nr"
+20131024-0900-PLENARY-6-pl_20131024-11-17-53_2,96782,NUM_UNVERIFIED,removed,"2013. Należy podkreślić, że codziennie Komisja Europejska podpisuje dziesiątki kontraktów na inwestycje, które podnoszą "
+20131024-0900-PLENARY-6-pl_20131024-11-17-53_6,96782,NUM_UNVERIFIED,removed,"Dziś głosowany budżet korygujący praktycznie oznacza dodatkowe składki dla państw członkowskich w wysokości 2,7 miliardó"
+20140203-0900-PLENARY-18-pl_20140203-21-51-53_17,23787,NUM_UNVERIFIED,removed,"Reforma wspólnej polityki rolnej rozpoczęła ten proces. Gospodarstwa do 10 hektarów są zwolnione z dywersyfikacji upraw,"
+20140313-0900-PLENARY-8-pl_20140313-10-53-08_5,28300,NUM_UNVERIFIED,removed,Zatem rok 2015 i kolejne lata powinny być temu poświęcone.
+20140714-0900-PLENARY-12-pl_20140714-17-40-27_2,124886,NUM_UNVERIFIED,removed,Od ponad 25 lat jestem przedsiębiorcą w sektorze małych i średnich przedsiębiorstw. Znam i rozumiem problemy drobnych fi
+20140714-0900-PLENARY-12-pl_20140714-17-40-27_3,124886,NUM_UNVERIFIED,removed,na świecie na 185 badanych krajów.
+20140915-0900-PLENARY-13-pl_20140915-17-16-55_5,23787,NUM_UNVERIFIED,removed,"1 eksportu naszej Unii, a producenci, którzy nie byli i nie są w stanie sprzedać swoich produktów, poniosą straty, a nie"
+20141021-0900-PLENARY-11-pl_20141021-17-15-32_6,124886,NUM_UNVERIFIED,removed,"Jeśli obecnie cena megawatogodziny w Polsce wynosi około 160 zł, to w niedalekiej przyszłości będzie wynosiła już 320 zł"
+20141021-0900-PLENARY-11-pl_20141021-17-34-50_0,124877,NUM_UNVERIFIED,removed,Panie Przewodniczący! Za trzy dni Rada ma podjąć kluczowe decyzje określające ramy polityk energetyczno klimatycznych do
+20141021-0900-PLENARY-11-pl_20141021-17-34-50_6,124877,NUM_UNVERIFIED,removed,"Wszystko to w sytuacji, kiedy Komisja Europejska zastanawia się, jak ożywić przemysł i podnieść jego udział w PKB z 16 d"
+20141021-0900-PLENARY-11-pl_20141021-17-34-50_7,124877,NUM_UNVERIFIED,removed,"20. Dla Polski wprowadzenie unijnego planu wiązałoby się z nieproporcjonalnie wysokimi kosztami, czego konsekwencją była"
+20141021-0900-PLENARY-13-pl_20141021-18-41-36_6,28288,NUM_UNVERIFIED,removed,"2015. Jesteśmy świadomi tego, że to jest tylko częściowe rozwiązanie i zmniejsza tak naprawdę obciążenia dla państw czło"
+20141021-0900-PLENARY-13-pl_20141021-18-41-36_8,28288,NUM_UNVERIFIED,removed,2015.
+20141021-0900-PLENARY-14-pl_20141021-19-51-45_3,28288,NUM_UNVERIFIED,removed,"Staramy się o budżet unijny, który ma mobilizować pewne działania i uruchamiać mechanizmy, a przecież rok 2015 jest drug"
+20150113-0900-PLENARY-13-pl_20150113-16-01-44_14,23785,NUM_UNVERIFIED,removed,"Różnie rozumiemy koszyk energetyczny, ale uważamy, że bezpieczeństwo energetyczne powinno pochodzić przede wszystkim z z"
+20150113-0900-PLENARY-13-pl_20150113-16-01-44_7,23785,NUM_UNVERIFIED,removed,"Jest pytanie, czy ten poziom inwestycji ma wynosić 300 mld, czy on ma być wyższy, jak mówi m.in."
+20150114-0900-PLENARY-6-pl_20150114-16-37-09_1,124892,NUM_UNVERIFIED,removed,"że usłyszę wiele słów na temat tej strasznej zbrodni, która zdarzyła się u naszych granic śmierci 12 ludzi w autobusie d"
+20150128-0900-PLENARY-9-pl_20150128-19-23-20_1,124886,NUM_UNVERIFIED,removed,"Kolejny raz zajmujemy się tematem ideologicznym, a nie praktycznym, istniejącym tylko w głowach polityków i lobbystów. T"
+20150128-0900-PLENARY-9-pl_20150128-19-23-20_3,124886,NUM_UNVERIFIED,removed,30. Trzeba będzie zamknąć większość elektrowni węgla brunatnego i kamiennego.
+20150128-0900-PLENARY-9-pl_20150128-19-23-20_6,124886,NUM_UNVERIFIED,removed,"Kto więc zapłaci koszty polskiego bezrobocia, koszty emisji CO 2 koszty droższej energii?"
+20150211-0900-PLENARY-10-pl_20150211-15-34-22_3,28341,NUM_UNVERIFIED,removed,"Nie tylko wewnętrzne przymusowe przesiedlenia oraz emigrację miejscowej ludności, ale zaplanowane okrutne mordowanie chr"
+20150211-0900-PLENARY-17-pl_20150211-22-19-13_11,124874,NUM_UNVERIFIED,removed,"byłoby to możliwe, to wtedy możemy mówić o dostępności leków, ponieważ koszty leczenia preparatami medycznymi to zaledwi"
+20150211-0900-PLENARY-17-pl_20150211-22-19-13_5,124874,NUM_UNVERIFIED,removed,"Tym niemniej, około 25 pacjentów w niektórych krajach europejskich nie ma dostępu do żadnych leków, bo ich nie wykupuje "
+20150311-0900-PLENARY-10-pl_20150311-15-18-32_20,124899,NUM_UNVERIFIED,removed,"Wreszcie ostatnia kwestia, którą chciałbym poruszyć, a mianowicie 5 lat temu doszło do tragedii w Smoleńsku, gdzie rozbi"
+20150311-0900-PLENARY-3-pl_20150311-09-42-37_1,124899,NUM_UNVERIFIED,removed,"Przysłuchuję się tej dyskusji i jeżeli chodzi o kwestię unii energetycznej, jasno wynika z niej jedno, proszę Państwa je"
+20150325-0900-PLENARY-12-pl_20150325-18-27-57_3,28297,NUM_UNVERIFIED,removed,Straciła już 25 gospodarki i część terytorium wojna kosztuje dużo.
+20151027-0900-PLENARY-16-pl_20151027-21-26-10_1,132925,NUM_UNVERIFIED,removed,"Mając na uwadze, że strategia „Europa 2020 jest nadrzędną, długoterminową strategią Unii Europejskiej na rzecz wzrostu i"
+20151027-0900-PLENARY-16-pl_20151027-21-26-10_7,132925,NUM_UNVERIFIED,removed,"Czy określono plan pracy zarówno w perspektywie jak i długookresowej służby wsparcia reformy strukturalnej, która oficja"
+20151124-0900-PLENARY-14-pl_20151124-21-54-35_3,28379,NUM_UNVERIFIED,removed,"To właśnie nadmierny koszt emisji CO2, a w tym technologicznego dwutlenku węgla powstałego wskutek redukcji żelaza w wie"
+20160509-0900-PLENARY-12-pl_20160509-20-26-54_10,132925,NUM_UNVERIFIED,removed,2. Jak do tej propozycji odnosi się rząd Niemiec?
+20160509-0900-PLENARY-12-pl_20160509-20-26-54_3,132925,NUM_UNVERIFIED,removed,w takim przypadku rozbudowa rosyjskiej infrastruktury przesyłowej na pewno nie ma uzasadnienia ekonomicznego. Potwierdza
+20160509-0900-PLENARY-12-pl_20160509-20-26-54_5,132925,NUM_UNVERIFIED,removed,"Ponadto Nord Stream 2 uniemożliwia rozwój portu w Świnoujściu, o czym już bardzo często wspominano, a co stanowi w tym m"
+20160511-0900-PLENARY-17-pl_20160511-21-01-28_1,28389,NUM_UNVERIFIED,removed,"Uszczuplenia z tytułu podatku dochodowego od osób prawnych w skali całej Unii Europejskiej wynoszą, tak jak szacuje to K"
+20160511-0900-PLENARY-17-pl_20160511-21-01-28_2,28389,NUM_UNVERIFIED,removed,"To oznacza, że w przypadku wielu krajów jest tak, że te uszczuplenia są po prostu większe niż wpływy z tego podatku tak "
+20160526-0900-PLENARY-3-pl_20160526-09-12-44_4,28389,NUM_UNVERIFIED,removed,"Producenci mleka w Polsce zapłacili już pierwszą ratę tej kary w wysokości około 70 milionów euro, natomiast pozostała k"
+20160526-0900-PLENARY-3-pl_20160526-09-12-44_5,28389,NUM_UNVERIFIED,removed,"Polski budżet poniósł w pełni koszt kar mlecznych, ponieważ Komisja Europejska potrąciła kwotę 170 milionów euro z bieżą"
+20160606-0900-PLENARY-15-pl_20160606-21-10-45_9,132925,NUM_UNVERIFIED,removed,"Komisja oraz Parlament wielokrotnie zwracali uwagę na problem nieuczciwych praktyk handlowych, między innymi w sprawozda"
+20170301-0900-PLENARY-19-pl_20170301-23-19-00_1,28353,NUM_UNVERIFIED,removed,"Kiedy świat cieszył się zakończeniem II wojny światowej, w Polsce trwało antysowieckie powstanie zbrojne, które objęło p"
+20170301-0900-PLENARY-19-pl_20170301-23-19-00_3,28353,NUM_UNVERIFIED,removed,Dla uczczenia ich pamięci od 7 lat obchodzimy Narodowy Dzień Pamięci Żołnierzy Wyklętych.
+20170314-0900-PLENARY-2-pl_20170314-09-30-49_1,124886,NUM_UNVERIFIED,removed,"Na wstępie chciałbym serdecznie podziękować stowarzyszeniom strzeleckim, kolekcjonerom, strzelcom sportowym, myśliwym, m"
+20170315-0900-PLENARY-3-pl_20170315-11-00-43_9,23781,NUM_UNVERIFIED,removed,"Jeśli chodzi o konkluzje Rady Europejskiej, to one oczywiście odzwierciedlają dzisiejsze wyzwania, ale wszyscy wiemy, że"
+20170404-0900-PLENARY-19-pl_20170404-20-26-29_10,28288,NUM_UNVERIFIED,removed,"2020. Jeżeli zdecydowaliśmy się na rewizję i zmianę perspektywy, to oznacza, że będziemy gotowi również do większej elas"
+20170405-0900-PLENARY-17-pl_20170405-20-06-33_2,124896,NUM_UNVERIFIED,removed,"Przypomnijmy sobie obywatelską odwagę i tragiczne bohaterstwo Majdanu, który stał się w 2014 roku prawdziwym sercem Euro"
+20170405-0900-PLENARY-17-pl_20170405-20-06-33_4,124896,NUM_UNVERIFIED,removed,"Realizowane na Ukrainie reformy są trudne, ale ile już zrobiono dla walki z korupcją, dla przejrzystości sektora bankowe"
+20170426-0900-PLENARY-12-pl_20170426-17-44-08_0,124877,NUM_UNVERIFIED,removed,"Pani poseł, sądziłam, że pani zainteresowanie będzie skierowane na dopytanie o szczegóły bardzo dobrego programu, progra"
+20170426-0900-PLENARY-14-pl_20170426-20-07-41_1,135541,NUM_UNVERIFIED,removed,Program wspierania reform strukturalnych w krajach Unii Europejskiej na lata 2017 w zakresie pobudzenia wzrostu gospodar
+20170515-0900-PLENARY-10-pl_20170515-17-13-10_6,124898,NUM_UNVERIFIED,removed,Jak wynika ze sprawozdania Komisji za 2015 rok na temat ochrony interesów finansowych Unii wysokość kwot z tytułu niepra
+20170515-0900-PLENARY-11-pl_20170515-18-55-13_3,135540,NUM_UNVERIFIED,removed,Zatem nowe priorytety strategicznych ram europejskiej współpracy w dziedzinie kształcenia i szkolenia do 2020 roku umożl
+20170516-0900-PLENARY-20-pl_20170516-21-56-25_4,28377,NUM_UNVERIFIED,removed,"Tegoroczne sprawozdanie w sprawie pomocniczości i proporcjonalności wykazało, że w 2014 roku Komisja otrzymała od parlam"
+20170516-0900-PLENARY-20-pl_20170516-21-56-25_7,28377,NUM_UNVERIFIED,removed,W latach 2012 i 2013 próg wymagany do wszczęcia procedury tzw.
+20170516-0900-PLENARY-20-pl_20170516-21-56-25_8,28377,NUM_UNVERIFIED,removed,"żółtej kartki osiągano każdego roku, podczas gdy w 2014 ani razu nie wszczęto procedur żółtej czy też pomarańczowej kart"
+20170612-0900-PLENARY-12-pl_20170612-18-08-20_0,28284,NUM_UNVERIFIED,removed,Panie Przewodniczący! Panie Komisarzu! W 9. programie ramowym będziemy już po rozwodzie z Wielką Brytanią. Wielka Brytan
+20170612-0900-PLENARY-13-pl_20170612-19-24-33_5,124895,NUM_UNVERIFIED,removed,Dlatego chcemy zdecydowanie zakomunikować polityka spójności po 2020 roku musi zachować swoje ważne miejsce w budżecie u
+20170704-0900-PLENARY-4-pl_20170704-11-22-15_2,28377,NUM_UNVERIFIED,removed,Zgodnie z danymi Komisji Europejskiej uchylanie się od opodatkowania przez globalne firmy kosztuje państwa członkowskie 
+20170705-0900-PLENARY-18-pl_20170705-20-42-09_4,135541,NUM_UNVERIFIED,removed,"Uważam jednak, że przywołane w sprawozdaniu regiony nie wykorzystują w pełni możliwości artykuł 349 Traktatu o funkcjono"
+20170911-0900-PLENARY-24-pl_20170911-22-47-52_5,28394,NUM_UNVERIFIED,removed,78. rocznica zdradzieckiej barbarzyńskiej napaści Związku Radzieckiego na Polskę w 1938 roku.
+20170912-0900-PLENARY-5-pl_20170912-10-05-40_16,28269,NUM_UNVERIFIED,removed,"Proszę pamiętać, że mówimy w tym rozporządzeniu o dostawach z zewnątrz, które stanowią zdecydowanie powyżej 50 zapotrzeb"
+20170914-0900-PLENARY-4-pl_20170914-09-46-10_4,28269,NUM_UNVERIFIED,removed,"Zdecydowana większość Parlamentu Europejskiego jest przeciwna projektowi Nordstream 2, bo nie spełnia on warunków ani za"
+20171026-0900-PLENARY-3-pl_20171026-09-56-36_2,28377,NUM_UNVERIFIED,removed,W 2015 roku Komisja otrzymała 3450 skarg dotyczących domniemanych naruszeń prawa unijnego.
+20171026-0900-PLENARY-3-pl_20171026-09-56-36_5,28377,NUM_UNVERIFIED,removed,"Z końcem 2015 roku otwartych było 1368 spraw dotyczących niewypełnienia obowiązków państw członkowskich, co stanowi niez"
+20171115-0900-PLENARY-17-pl_20171115-15-28-01_2,28353,NUM_UNVERIFIED,removed,"Chylę czoła przed bohaterami Katynia, Ostaszkowa, Miednoje, pomordowanymi polskimi oficerami, przed polskim państwem pod"
+20171115-0900-PLENARY-4-pl_20171115-09-42-32_16,124886,NUM_UNVERIFIED,removed,"Kilka dni temu, 11 listopada obchodziliśmy rocznicę odzyskania niepodległości przez Polskę."
+20171129-0900-PLENARY-12-pl_20171129-16-31-27_3,28288,NUM_UNVERIFIED,removed,"2018. Trzeba pamiętać, że rok 2018 będzie czasem bardzo intensywnej pracy nad następnymi wieloletnimi perspektywami fina"
+20171129-0900-PLENARY-12-pl_20171129-16-31-27_5,28288,NUM_UNVERIFIED,removed,"Rewizji, która z jednej strony zwiększyła elastyczność budżetu, a z drugiej strony nie była dokumentem wiążącym ręce ucz"
+20171129-0900-PLENARY-12-pl_20171129-16-31-27_8,28288,NUM_UNVERIFIED,removed,"Wynik negocjacji dotyczących budżetu na rok 2018, który nie wszystkich zadawala, ale jednak jest sukcesem i osiągnięciem"
+20171129-0900-PLENARY-16-pl_20171129-19-57-02_2,124897,NUM_UNVERIFIED,removed,"Rozwiązanie to jest wręcz konieczne, ponieważ całościowa implementacja MSSF 9 na tym etapie może spowodować, że banki zg"
+20171129-0900-PLENARY-16-pl_20171129-19-57-02_4,124897,NUM_UNVERIFIED,removed,"Pozostaje jednak mieć nadzieję, że banki dobrze wykorzystają dany im dodatkowy czas na dostosowanie się do nowych regula"
+20171130-0900-PLENARY-3-pl_20171130-09-13-24_3,124897,NUM_UNVERIFIED,removed,"Takie uregulowanie jest natomiast konieczne, jeśli chcemy, by banki globalne w roku 2019 wdrożyły standard całkowitej zd"
+20171130-0900-PLENARY-5-pl_20171130-10-03-00_6,124881,NUM_UNVERIFIED,removed,"Za kilka dni, 6 grudnia, w tej sali obradować będzie Europejski Parlament Osób Niepełnosprawnych."
+20171212-0900-PLENARY-5-pl_20171212-09-47-42_1,28394,NUM_UNVERIFIED,removed,"papierów z Panamy spowodowało wielki skandal, ponieważ pokazało, na jak wielką skalę dochodzi w świecie do unikania płac"
+20180115-0900-PLENARY-11-pl_20180115-19-06-14_6,28269,NUM_UNVERIFIED,removed,"Mnie się wydaje, że te cele w tej chwili realistyczne nie są 40 czy 35 że Komisja Europejska w niektórych przypadkach mo"
+20180206-0900-PLENARY-17-pl_20180206-17-44-41_1,28341,NUM_UNVERIFIED,removed,Od kilku lat trwają negocjacje krajów Bałkanów Zachodnich w sprawie członkostwa w Unii Europejskiej. Mimo że niektóre z 
+20180207-0900-PLENARY-19-pl_20180207-20-32-15_4,124887,NUM_UNVERIFIED,removed,2020ˮ.
+20180207-0900-PLENARY-19-pl_20180207-20-32-15_5,124887,NUM_UNVERIFIED,removed,"2020ˮ. Szczególnie doceniamy w tym miejscu znaczenie instrumentu „Łącząc Europę, z"
+20180313-0900-PLENARY-4-pl_20180313-10-39-36_10,23768,NUM_UNVERIFIED,removed,"Jestem pytany przez przewoźników drogowych, w jaki sposób będą wjeżdżać do Wielkiej Brytanii 30 marca 2019 r.,"
+20180502-0900-PLENARY-19-pl_20180502-17-14-10_1,28284,NUM_UNVERIFIED,removed,"Nie ulega wątpliwości, że obowiązkiem instytucji unijnych, jak i krajowych jest przede wszystkim dbałość o pieniądze pod"
+20180502-0900-PLENARY-19-pl_20180502-17-14-10_2,28284,NUM_UNVERIFIED,removed,"Należy jednak zauważyć, iż w 2015 roku kwota ta była dużo wyższa i wynosiła 640 milionów euro."
+20180528-0900-PLENARY-20-pl_20180528-20-41-05_3,124900,NUM_UNVERIFIED,removed,"Polska kraj, z którego pochodzę jest członkiem Unii Europejskiej od 14 lat."
+20180528-0900-PLENARY-20-pl_20180528-20-41-05_4,124900,NUM_UNVERIFIED,removed,"Unia zapewniła polskich rolników w traktacie akcesyjnym, że w 2013"
+20180528-0900-PLENARY-20-pl_20180528-20-41-05_6,124900,NUM_UNVERIFIED,removed,"Mamy 2018 rok, a dyskryminacja rolników z tzw."
+20180611-0900-PLENARY-10-pl_20180611-17-39-35_4,124897,NUM_UNVERIFIED,removed,"Wierzymy, że obecna propozycja pozwoli uniknąć małym kontrahentom finansowym kosztów operacyjnych, według szacunku może "
+20180611-0900-PLENARY-12-pl_20180611-18-59-14_2,124874,NUM_UNVERIFIED,removed,Wiemy z danych z 2014
+20180611-0900-PLENARY-12-pl_20180611-18-59-14_8,124874,NUM_UNVERIFIED,removed,"Takie szczegółowe podejście jest konieczne do ścisłej współpracy z różnymi organizacjami międzynarodowymi, aby efektywni"
+20180611-0900-PLENARY-pl_20180611-17-39-35_4,124897,NUM_UNVERIFIED,removed,"Wierzymy, że obecna propozycja pozwoli uniknąć małym kontrahentom finansowym kosztów operacyjnych, według szacunku może "
+20180611-0900-PLENARY-pl_20180611-18-59-14_2,124874,NUM_UNVERIFIED,removed,Wiemy z danych z 2014
+20180611-0900-PLENARY-pl_20180611-18-59-14_8,124874,NUM_UNVERIFIED,removed,"Takie szczegółowe podejście jest konieczne do ścisłej współpracy z różnymi organizacjami międzynarodowymi, aby efektywni"
+20180612-0900-PLENARY-20-pl_20180612-21-57-53_2,96784,NUM_UNVERIFIED,removed,"o 28. Wydaje mi się, że właśnie w tych wyższych kwotach mamy także szansę na to, żeby znaleźć znacznie większe środki na"
+20180612-0900-PLENARY-pl_20180612-21-57-53_2,96784,NUM_UNVERIFIED,removed,"Warto przypomnieć o powołaniu funduszu obronnego, ale także o tym, że w planach na lata 2021 przewiduje się aż 32 mld eu"
+20180614-0900-PLENARY-3-pl_20180614-09-14-27_5,124898,NUM_UNVERIFIED,removed,W konsekwencji pierwsze sprawozdanie opublikowano w 2014
+20180614-0900-PLENARY-pl_20180614-09-14-27_5,124898,NUM_UNVERIFIED,removed,W konsekwencji pierwsze sprawozdanie opublikowano w 2014
+20180704-0900-PLENARY-pl_20180704-10-36-22_4,124902,NUM_UNVERIFIED,removed,Przecież takie ustawy jak ustawa antyterrorystyczna czy ustawa o gruntach rolnych jeszcze 10 lat temu nazwane zostałyby 
+20180704-0900-PLENARY-pl_20180704-11-18-22_6,124887,NUM_UNVERIFIED,removed,"art. 7 w stosunku do Niemiec, gdzie sędziowie Sądu Najwyższego wybierani są przez komisję złożoną w połowie z posłów do "
+20180704-0900-PLENARY-pl_20180704-11-34-24_25,None,NUM_UNVERIFIED,removed,"Po wielkich sukcesach, jakie nasz rząd odniósł w ciągu 2,5 roku w obszarze uszczelniania podatków, co pozwoliło nam zlik"
+20180704-0900-PLENARY-pl_20180704-11-34-24_36,None,NUM_UNVERIFIED,removed,"4.0, czyli Unia Europejska w awangardzie rewolucji technologicznej, rewolucji przemysłowej, rewolucji cyfrowej."
+20180704-0900-PLENARY-pl_20180704-11-34-24_42,None,NUM_UNVERIFIED,removed,"Ale jest także trzeci aspekt Unia obywatelska, Unia społecznie wrażliwa, wspierająca swoich obywateli i broniąca ich prz"
+20180705-0900-PLENARY-3-pl_20180705-09-29-05_3,124881,NUM_UNVERIFIED,removed,i ekonomicznego 80 milionów Europejczyków.
+20180705-0900-PLENARY-pl_20180705-09-29-05_3,124881,NUM_UNVERIFIED,removed,i ekonomicznego 80 milionów Europejczyków.
+20181128-0900-PLENARY-pl_20181128-18-12-40_4,124886,NUM_UNVERIFIED,removed,Emisja CO2 w Chinach jest prawie trzy razy większa niż we wszystkich krajach Unii Europejskiej i nie da się tego zmienić
+20181128-0900-PLENARY-pl_20181128-18-12-40_6,124886,NUM_UNVERIFIED,removed,"Tymczasem koszty unijnej polityki energetycznej dla mojego kraju, Polski wynoszą około 5 mld złotych rocznie i ciągle ro"
+20181128-0900-PLENARY-pl_20181128-19-01-18_6,124886,NUM_UNVERIFIED,removed,obowiązywało aż 7076 dyrektyw dotyczących jednolitego rynku.
+20201005-0900-PLENARY-pl_20201005-17-50-02_3,197550,NUM_UNVERIFIED,removed,To wszystko dzieje się w Unii w 2020 roku.
+20201005-0900-PLENARY-pl_20201005-17-50-02_7,197550,NUM_UNVERIFIED,removed,"Potrzebujemy oczywiście mechanizmu dotyczącego praworządności i to takiego, który obejmie pełen zakres wartości z artyku"
+20201019-0900-PLENARY-pl_20201019-19-29-42_5,197513,NUM_UNVERIFIED,removed,"Reakcja pośredników internetowych powinna następować natychmiast po otrzymaniu powiadomienia od właścicieli praw, maksym"
+20201111-0900-PLENARY-pl_20201111-17-43-01_1,197550,NUM_UNVERIFIED,removed,"Prawie trzy lata temu po raz pierwszy uruchomiono procedurę z artykułu 7, i to wobec Polski."
+20201112-0900-PLENARY-pl_20201112-09-12-42_3,197550,NUM_UNVERIFIED,removed,"Ofiarami COVID 19 są nie tylko chorzy i umierający, nie tylko biznes, ale również kobiety doświadczające przemocy domowe"
+20110914-0900-PLENARY-3-pl_20110914-11-12-07_2,None,RATE_MISALIGN,removed,cps=5.20 z=-3.58 median=12.92
+20121212-0900-PLENARY-15-pl_20121212-20-35-08_21,96793,RATE_MISALIGN,removed,cps=20.63 z=3.57 median=12.92
+20130311-0900-PLENARY-14-pl_20130311-19-08-32_5,96792,RATE_MISALIGN,removed,cps=22.73 z=4.55 median=12.92
+20131010-0900-PLENARY-22-pl_20131010-15-10-44_8,28377,RATE_MISALIGN,removed,cps=20.75 z=3.63 median=12.92
+20140206-0900-PLENARY-7-pl_20140206-10-32-07_2,28300,RATE_MISALIGN,removed,cps=23.44 z=4.88 median=12.92
+20150210-0900-PLENARY-12-pl_20150210-18-13-08_5,124899,RATE_MISALIGN,removed,cps=21.05 z=3.77 median=12.92
+20150430-0900-PLENARY-3-pl_20150430-09-28-25_7,28394,RATE_MISALIGN,removed,cps=21.60 z=4.02 median=12.92
+20170313-0900-PLENARY-11-pl_20170313-19-13-03_20,124889,RATE_MISALIGN,removed,cps=20.81 z=3.66 median=12.92
+20170515-0900-PLENARY-10-pl_20170515-17-13-10_4,124898,RATE_MISALIGN,removed,cps=2.37 z=-4.89 median=12.92
+20171212-0900-PLENARY-16-pl_20171212-17-50-51_11,124894,RATE_MISALIGN,removed,cps=20.87 z=3.69 median=12.92
+20180704-0900-PLENARY-pl_20180704-11-34-24_4,None,RATE_MISALIGN,removed,cps=5.23 z=-3.56 median=12.92
+20120611-0900-PLENARY-13-pl_20120611-17-23-16_0,96774,SILENCE,removed,silent_frac=0.00 peak=-41.4dB
+20170313-0900-PLENARY-11-pl_20170313-19-41-51_0,124877,SILENCE,removed,silent_frac=0.82 peak=-14.7dB
+20170314-0900-PLENARY-2-pl_20170314-09-34-07_0,124886,SILENCE,removed,silent_frac=0.00 peak=-40.1dB
+20170515-0900-PLENARY-10-pl_20170515-18-15-04_0,124898,SILENCE,removed,silent_frac=0.00 peak=-46.6dB
+20180115-0900-PLENARY-11-pl_20180115-19-06-14_0,28269,SILENCE,removed,silent_frac=0.52 peak=-19.1dB
+20180115-0900-PLENARY-11-pl_20180115-19-09-08_0,28379,SILENCE,removed,silent_frac=0.53 peak=-25.5dB
+20180313-0900-PLENARY-18-pl_20180313-21-30-24_0,124890,SILENCE,removed,silent_frac=0.60 peak=-18.8dB
+20090203-0900-PLENARY-13-pl_20090203-21-22-47_2,28375,TEXT_MISMATCH,removed,"[('delete', 'in', '')]"
+20090324-0900-PLENARY-17-pl_20090324-22-11-32_4,28391,TEXT_MISMATCH,removed,"[('delete', 'in', '')]"
+20111115-0900-PLENARY-13-pl_20111115-19-44-45_34,None,TEXT_MISMATCH,removed,"[('delete', 'in', '')]"
+20140916-0900-PLENARY-3-pl_20140916-09-42-25_6,28297,TEXT_MISMATCH,removed,"[('delete', 'in', '')]"
+20150211-0900-PLENARY-17-pl_20150211-22-19-13_10,124874,TEXT_MISMATCH,removed,"[('insert', '', 'czy'), ('delete', 'jeżeli', '')]"
+20150211-0900-PLENARY-17-pl_20150211-22-19-13_9,124874,TEXT_MISMATCH,removed,"[('replace', 'czy', 'obamacare')]"
+20171025-0900-PLENARY-4-pl_20171025-09-14-22_11,28284,TEXT_MISMATCH,removed,"[('delete', 'in', '')]"
+20180207-0900-PLENARY-19-pl_20180207-20-32-15_6,124887,TEXT_MISMATCH,removed,"[('replace', 'którego funduszy częściowo finansowane są odcinki wielkiego projektu via carpatia ponadto podzielamy pogląd iż ebi może aktywnie', 'delegacja polska w grupie ecr podzielając większość wn"

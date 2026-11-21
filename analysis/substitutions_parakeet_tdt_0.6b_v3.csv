@@ -1,0 +1,21 @@
+ref,hyp,count,type
+np,przykład,3,other
+kary,kar,2,other
+emisję,emisje,2,diacritic only
+panie,pani,2,"inflection (same stem, different ending)"
+między,pomiędzy,2,other
+chciałem,chciałbym,2,"inflection (same stem, different ending)"
+na,dla,2,other
+deprawacji,depravacji,1,other
+kiedy,gdy,1,other
+tej,i,1,other
+dziedzinie,badaniach,1,other
+czym,tym,1,other
+cd,d,1,other
+oddziałuje,oddziaływuje,1,"inflection (same stem, different ending)"
+umowny,szado,1,other
+go,je,1,other
+nie,nieprawda,1,other
+blef,blew,1,other
+karnego,kryminalnego,1,other
+przywódcy,przywódcę,1,"inflection (same stem, different ending)"

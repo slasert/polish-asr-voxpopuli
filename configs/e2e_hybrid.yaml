@@ -1,0 +1,19 @@
+name: e2e_hybrid
+family: "B3b hybrid CTC/attention (Conformer + Transformer decoder, from scratch)"
+kind: aed
+ctc_weight: 0.3
+dec_layers: 4
+beam: 5
+max_frames: 20000
+d_model: 144
+enc_layers: 8
+heads: 4
+ffn: 576
+kernel: 15
+dropout: 0.1
+lr: 0.001
+warmup_steps: 1000
+epochs: 60
+eval_from: 10
+eval_every: 5
+eval_max_frames: 30000

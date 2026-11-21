@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# model weights and training checkpoints are never committed
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.bin
+# local working dirs (large, regenerable)
+exp/
+work/
+.venv/
+env/

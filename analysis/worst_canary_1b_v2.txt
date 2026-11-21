@@ -1,0 +1,60 @@
+=== 20151125-0900-PLENARY-16-pl_20151125-16-59-57_0 (15 word errors)
+sentence 1
+REF:    w          mojej wypowiedzi szanowny kolego nie było żadnego stwierdzenia że zbyt wiele pieniędzy wydajemy na
+HYP: pani przewodnicząca ********** ******** ****** *** **** ******* ************ ** **** ***** ********* ******** **
+        S              S          D        D      D   D    D       D            D  D    D     D         D        D  D
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_0 (10 word errors)
+sentence 1
+REF: panie przewodniczący właśnie dlatego że unia europejska pretenduje do roli światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie pomagać kobietom w godzeniu ich powołania żony i matki
+HYP: panie przewodniczący właśnie dlatego że unia europejska pretenduje do **** światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie ******* ******** * ******** *** ********* **** * *****
+                                                                              D                                                                                                                                                                         D        D D        D   D         D    D D     D
+
+=== 20131023-0900-PLENARY-13-pl_20131023-18-33-01_5 (9 word errors)
+sentence 1
+REF: z drugiej strony chciałem powiedzieć że znając trochę rosjan * federację rosyjską i politykę rosyjską i to jak traktuje takie sprawy jak platformy wiertnicze czy inne instalacje i urządzenia to można by powiedzieć że dobrze **    iż skończyło się        to tylko na tym
+HYP: z drugiej strony chciałem powiedzieć że znając trochę rosjan i federację rosyjską i politykę rosyjską i to jak traktuje takie sprawy jak platformy wiertnicze czy inne instalacje i urządzenia ** można by powiedzieć że dobrze że tylko       tak się skończyło ***** ** ***
+                                                                  I                                                                                                                                  D                                I     S         S             S     D  D   D
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_3 (9 word errors)
+sentence 1
+REF: ze szwedzkich badań prowadzonych kilka lat temu   wynika że ojcowie na urlopach wychowawczych      woleli   polować na łosia albo   oglądać telewizję i   czytać gazety niż   zajmować się dzieckiem
+HYP: ze szwedzkich badań prowadzonych kilka lat temu wynikało że ojcowie na urlopach wychowawczych preferowali polowanie na łosie albo oglądanie telewizji i czytanie  gazet niż zajmowanie się dzieckiem
+                                                            S                                                S         S        S              S         S          S      S              S              
+
+=== 20131010-0900-PLENARY-22-pl_20131010-15-27-45_8 (7 word errors)
+sentence 1
+REF: * **** ******* na masową skalę celowo eksterminuje się ******* ludzi tylko dlatego że są chrześcijanami dlatego trzeba zacząć działać a nie tylko mówić na rezolucję już *****       jest za późno teraz chodzi o konkretne działania
+HYP: w tych krajach na masową skalę celowo eksterminuje się morduje ludzi tylko dlatego że są chrześcijanami dlatego trzeba zacząć działać a nie tylko mówić na rezolucję już można powiedzieć za późno teraz chodzi o konkretne działanie
+     I    I       I                                               I                                                                                                               I          S                                           S
+
+=== 20131023-0900-PLENARY-13-pl_20131023-18-26-48_4 (7 word errors)
+sentence 1
+REF: ******* widzimy dziś przedstawicieli ambasady rosyjskiej których ***** należy tutaj przywitać którzy oglądają ***** dzisiejszą debatę ale którzy ******* będą również bardzo uważnie patrzeć na to jak unia europejska potrafi obronić przed kuriozalnymi i śmiesznymi zarzutami obywateli państw unii europejskiej
+HYP: dzisiaj widzimy **** przedstawicieli ambasady rosyjskiej których tutaj należy ***** przywitać którzy oglądają naszą dzisiejszą debatę ale którzy również będą ******* bardzo uważnie patrzeć na to jak unia europejska potrafi obronić przed kuriozalnymi i śmiesznymi zarzutami obywateli państw unii europejskiej
+           I            D                                                 I            D                               I                                    I            D                                                                                                                                              
+
+=== 20170404-0900-PLENARY-11-pl_20170404-13-05-41_1 (7 word errors)
+sentence 1
+REF: głosowaliśmy za sprawozdaniem próbującym uregulować problem określany katastrofą ekologiczną xxi wieku skutkujący zatruciem i chorobami ludzi w indonezji borneo na sumatrze i na przyległych obszarach zniszczeniem zwierząt      w wyniku wylesiania i wypalaniem lasów tropikalnych pod uprawy oleju palmowego stosowanego
+HYP: głosowaliśmy za      raportem próbującym uregulować problem określany katastrofą ekologiczną xxi wieku  skutkując zatruciem i chorobami ludzi w indonezji borneo na sumatrze * ** przyległych obszarach zniszczeniem zwierząt skutek ****** wylesiania i wypalaniem lasów tropikalnych pod uprawę oleju palmowego stosowanego
+                                 S                                                                                   S                                                            D  D                                                  S      D                                                     S                            
+
+=== 20090218-0900-PLENARY-21-pl_20090218-22-25-46_3 (6 word errors)
+sentence 1
+REF: w tym czasie kiedy doświadczamy załamania gospodarczego nie możemy sobie pozwolić na błąd zaniedbania wobec nauki i badań wobec ludzi którzy pracują w ***** tej dziedzinie popieram więc działania dotyczące ********** prawnego umocowania europejskiej infrastruktury badawczej eri
+HYP: w tym czasie   gdy doświadczamy załamania gospodarczego nie możemy sobie pozwolić na błąd zaniedbania wobec nauki i badań wobec ludzi którzy pracują w nauce   i  badaniach popieram więc działania dotyczące umocowania prawnego ********** europejskiej infrastruktury badawczej eri
+                      S                                                                                                                                         I   S          S                                            I                   D                                          
+
+=== 20131022-0900-PLENARY-14-pl_20131022-16-03-00_3 (6 word errors)
+sentence 1
+REF: powinniśmy z nią walczyć nie tylko   przez ściganie karne ale w dużej mierze i przede wszystkim nawet   przez zapobieganie korupcji przez eliminowanie mechanizmów *************** korupcjogennych patologii występujących       np
+HYP: powinniśmy z nią walczyć nie tylko poprzez ściganie karne ale w dużej mierze i przede wszystkim nawet poprzez zapobieganie korupcji przez eliminowanie mechanizmów korupcyogennych            tych patologii            na przykład
+                                              S                                                                  S                                                                    I               S                       S        S
+
+=== 20131024-0900-PLENARY-3-pl_20131024-09-07-25_14 (6 word errors)
+sentence 1
+REF: jeżeli któryś kraj ma wzorcowy dostęp do telekomunikacji te wzorce powinny być transportowane do wszystkich innych  krajów ważne jest ************ absolutnie zmniejszenie obciążeń administracyjnych bo one są  tak naprawdę blokadą dla rozwoju sieci telekomunikacyjnej i dostępu do rynku
+HYP:  jeśli któryś kraj ma wzorcowy dostęp do telekomunikacji te wzorce powinny być transportowane we wszystkich innych krajach ważne jest zmniejszenie absolutnie ************ obciążeń administracyjnych bo one są taką naprawdę blokadą dla rozwoju sieci telekomunikacyjnej i dostępu do rynku
+          S                                                                                         S                         S                       I                       D                                         S                                                                         
+

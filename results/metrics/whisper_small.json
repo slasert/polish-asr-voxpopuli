@@ -1,0 +1,98 @@
+{
+  "dev": {
+    "system": "whisper_small",
+    "split": "dev",
+    "model_id": "openai/whisper-small",
+    "revision": "973afd24965f72e36ca33b3055d56a652f456b4d",
+    "family": "B7 pretrained AED (Whisper, multilingual)",
+    "decoding": "greedy (num_beams=1), no timestamps",
+    "language": "language='polish', task='transcribe'",
+    "precision": "fp16",
+    "batch_size": 8,
+    "compute_seconds": 74.81,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 1072.9,
+    "normalized": {
+      "wer": 0.19934249850567842,
+      "mer": 0.187570303712036,
+      "wil": 0.27350589385498936,
+      "cer": 0.0959109178902469,
+      "sub": 669,
+      "del": 245,
+      "ins": 420,
+      "hits": 5778,
+      "n_ref_words": 6692,
+      "char_sub": 1007,
+      "char_del": 1785,
+      "char_ins": 1885,
+      "n_ref_chars": 48764,
+      "n_utts": 316
+    },
+    "orthographic": {
+      "wer": 0.25986252241482366,
+      "cer": 0.10590033382938503,
+      "sub": 1077,
+      "del": 246,
+      "ins": 416,
+      "n_ref_words": 6692
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.19778243931675157,
+      "cer": 0.09419052126849546,
+      "n_utts": 307
+    },
+    "audio_seconds": 3225.806,
+    "rtfx": 43.12,
+    "commit": "uncommitted"
+  },
+  "test": {
+    "system": "whisper_small",
+    "split": "test",
+    "model_id": "openai/whisper-small",
+    "revision": "973afd24965f72e36ca33b3055d56a652f456b4d",
+    "family": "B7 pretrained AED (Whisper, multilingual)",
+    "decoding": "greedy (num_beams=1), no timestamps",
+    "language": "language='polish', task='transcribe'",
+    "precision": "fp16",
+    "batch_size": 8,
+    "compute_seconds": 94.6,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 1072.3,
+    "normalized": {
+      "wer": 0.16380510440835266,
+      "mer": 0.1546888694127958,
+      "wil": 0.2195113032577336,
+      "cer": 0.08656577218194922,
+      "sub": 469,
+      "del": 209,
+      "ins": 381,
+      "hits": 5787,
+      "n_ref_words": 6465,
+      "char_sub": 664,
+      "char_del": 1348,
+      "char_ins": 2072,
+      "n_ref_chars": 47178,
+      "n_utts": 336
+    },
+    "orthographic": {
+      "wer": 0.22675947409126063,
+      "cer": 0.09695647657629583,
+      "sub": 887,
+      "del": 206,
+      "ins": 373,
+      "n_ref_words": 6465
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.16307882917763666,
+      "cer": 0.0857694838969917,
+      "n_utts": 332
+    },
+    "audio_seconds": 3182.267,
+    "rtfx": 33.64,
+    "commit": "uncommitted"
+  }
+}

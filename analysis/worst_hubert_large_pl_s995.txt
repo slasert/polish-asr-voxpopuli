@@ -1,0 +1,60 @@
+=== 20170404-0900-PLENARY-11-pl_20170404-13-05-41_1 (34 word errors)
+sentence 1
+REF:  głosowaliśmy   za sprawozdaniem próbującym  uregulować problem ********** **** ******    określany  katastrofą ekologiczną   xxi       wieku skutkujący zatruciem  i chorobami ludzi          w indonezji borneo na  sumatrze                    i           na przyległych obszarach zniszczeniem zwierząt      w wyniku wylesiania      i wypalaniem lasów tropikalnych       pod uprawy oleju palmowego stosowanego
+HYP: egoszowaliśmy zara        portęm  próbujący muregulować problem określanyh kata strofą ekologicznąd wodziestego   pierszego wilku szkutkujący         za    trucie mi chorobami ludzi windonezji      born ****** na słumatcze przyległychobszarach zniszczeniem    zwierząc         c        kutek     wyle siania      i       wypa laniem      lasłu     w tropikalnych poduprawy ****** oleju palmowego stosowanego
+                 S    S             S          S           S                  I    I      I            S           S           S     S           S          S         S  S                          S         S      D            S                    S            S           S         S            S        S      S      S          S      S          S     S                      S      D                            
+
+=== 20170405-0900-PLENARY-16-pl_20170405-18-39-16_3 (34 word errors)
+sentence 1
+REF: to       dobra nowina  przede wszystkim dla konsumentów którzy będą płacić        niższe rachunki       ale to także dobra nowina dla ***** ******* * przedsiębiorstw które będą miały niższe koszty ******* działalności a              w szczególności dla małych przedsiębiorstw innowacyjnych             i     start       upów  które   będą chciały uczestniczyć w rynku usług telekomunikacyjnych
+HYP: to dobranowina   prze kinmdla ********* *** konsumentów      ó   że  będną płacicniszcze       ra chunkiale to także dobra nowina dla przed siębior z           glóre  będo    m  jały niższe koszty działal        ności a wszczególności ************* dla   mały           przed      siębiorz inowacyjnychi startapów którebydną wciały uczest  niczyć ************ w rynku usłuk     telekomunikacyj
+                  S      S       S         D   D                  S    S      S             S        S         S                               I       I I               S     S    S     S                     I            S                S             D          S               S             S             S         S          S      S      S       S            D             S                   S
+
+=== 20171004-0900-PLENARY-7-pl_20171004-12-54-41_0 (34 word errors)
+sentence 1
+REF:  pani przewodnicząca oczywiście popieram w ******  projekcie rezolucji wyeliminowanie możliwości zawierania ** małżeństw przez **********  dzieci    jakie  dotyczy zwłaszcza środowisk imigranckich i ********* przynajmniej     w naszej        kulturze chrześcijańskiej europejskiej traktowane     jest   od     dawna  jako przemoc             i przestępstwo istniejące także w prawie międzynarodowym
+HYP: ladem          krupa  oczywście popieram w projok cierozoluc      wiel      minawanie  możliwość zawierania ma    małżec przez dziecijaki dotyczy zwaszcza środowis      kimi   grancki            h i przynajmi      wnaszej kultu    rze chrześcijańskie                j europejskiej traktowany zoddawna jako przemodzi przez     tęm stwojźniejące          tak         że ***** w prawie  międzynarodowy
+         S              S          S                 I          S         S              S          S             I         S                I       S        S        S         S         S            S           I            S     S      S               S                S                       S        S    S         S     S       S             S            S          S     D                        S
+
+=== 20150113-0900-PLENARY-13-pl_20150113-16-01-44_15 (32 word errors)
+sentence 1
+REF: **** chciałbym również zachęcić państwa członkowskie do  wnoszenia wkładu bowiem taki wkład         nie powinien być też   według  mojej opinii zaliczany           do statystyk       długu publicznego co zaś do konsolidacji *** fiskalnej uważamy że unikanie opodatkowania tak ** natomiast ta konsolidacja w  zakresie zrównania podatków      ona   jest różnie rozumiana   przez różne kraje
+HYP: nież chciałbym     aby  zakęcić   pańsa  człunkoskie do wkładbomym ****** ****** taki wkłat niepowinian ******** być też wedugmoi opinie ****** zaliczany dostatystych    długów poblicznego *********** co zać do konsolidacji fil wiskalnej uważamy że  unikani opodadkowania tak na   tomiast ta konsolidacja w zakresieę    zrówna      nia podadków onajst różnie rozumiana przesji różne kraję
+        I                 S        S       S            S             S      D      D          S           S        D                S      S      D                      S         S           S           D      S                   I         S                   S             S      I         S                           S         S        S        S      S                        S           S
+
+=== 20171023-0900-PLENARY-19-pl_20171023-21-26-28_5 (32 word errors)
+sentence 1
+REF:        moim zdaniem nie możemy ********  pozostać obojętni wobec tej ukrytej   agresji            która    godzi       w    naszą wspólnotę       i dlatego chciałbym prosić   komisję  o  dokonanie gruntownej analizy tego zjawiska i zaproponowanie skutecznych ***** narzędzi i ******* sposobu przeciwdziałania tym niebezpiecznym ****** praktykom federacji rosyjskiej
+HYP: moimwzaniem ******* nie możemy pozyctać obojętnie        w  abec tej  ukryte jakreskji ptóragodziwnaszą spólnote dlatego chciałym    prosić komisje  otraby        do  konać gruntowne ja nalizytego ********** ******* tego zjawiska i zaproponowania skutecznych narzę     dzie i sposowy przecie       wdziałania tym niebezpiecznym prakty       kam  federacj  rosyjśkie
+               S       D                   I         S        S     S           S         S                S        S       S        S         S       S       S         S      S         S  S          S          D       D                              S                 I        S         I       S                S                         I         S         S          S
+
+=== 20140915-0900-PLENARY-13-pl_20140915-17-16-55_9 (30 word errors)
+sentence 1
+REF: uważamy jednak że przeznaczone   na ten cel środki finansowe       są         dalekie od wystarczających w obliczu skali      i wpływu embarga na naszych producentów       co więcej jako że             kryzys ten jest przede wszystkim natury politycznej       i nie powstał w wyniku załamania rynku       ani      też niepomyślnych  warunków pogodowych
+HYP: uważamy jednak że przeżnaczone natę *** cel śrocki finansowę sądaleci odwystawszający ** *************** w obliczu  kali wpływy ****** embarga na   nasyh    polucetu sowięcej ****** jako że kryzystaniesprzede *** **** ****** wszystkim natuly      politi prztzej nie powstał * wyniku   zamania rynku aniteżlie pomyślni      walunków pogodowyk **********
+                                  S    S   D          S         S        S               S  D               D               S      S      D                  S           S        S      D                          S   D    D      D                S           S       S             D                S               S        S             S         S          D
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_0 (28 word errors)
+sentence 1
+REF: ********************************* ****** panie przewodniczący właśnie dlatego że unia europejska pretenduje do roli światowego           lidera  jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia         zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie pomagać kobietom w godzeniu ich powołania żony i matki
+HYP: lowychijemaleptojkilekrupaciękuje bardzo panie przewydniczący włosnię dlatego że unia europejska pretenduje do **** światowego liderajślichodzi oprała ****** * ***** kobiet  powinniśm w ramach  ralizacji tegu uprawnienia zwrancadziuwagę ***** na różnice psychofizyczne   mężcze z ****** i kobiedi  prawni ******** * ******** *** ********* **** * *****
+                                     I      I                    S       S                                             D                           S      S      D D     D                 S                   S    S                           S     D                                  S S      D         S       S        D D        D   D         D    D D     D
+
+=== 20170911-0900-PLENARY-24-pl_20170911-22-47-52_0 (28 word errors)
+sentence 1
+REF:           pani przewodnicząca         za kilka  dni      na terytorium białorusi odbędą się wielkie       manewry wojskowe zapad organizowane          przez federację rosyjską według doniesień w   manewrach tych weźmie udział ponad *********** sto tysięcy żołnierzy kilkaset czołgów artyleria           i lotnictwo
+HYP: pryźdątzakilka          wnina terytorium biały rusi hodbędą ********** ********* ****** się wielkie manewrywojsko   wezapa     t  orgańzowane wszesfederacji  rosyjską    wedłu  donie      sięń w manewratych **** weźmie udział ponad stoatysięcy  że  łnieży   kilkase   czołgó       w artyleria idlatnictwo *********
+                  S              S          S     S    S       S          D         D      D                         S        S     S            S              S         S        S      S         S             S    D                               I   S       S         S        S       S                     S         D
+
+=== 20090312-0900-PLENARY-16-pl_20090312-15-51-07_4 (27 word errors)
+sentence 1
+REF:       w liście kobiety    z darfuru opisują *********** wstrząsające sceny przemocy i gwałtu ** codzienne życie          w prowincji w której gwałt jest z  premedytacją  stosowany     jako broń mająca doprowadzić do cierpienia oraz stygmatyzacji kobiet         do rozkładu      wspólnoty     i demoralizacji całej społeczności
+HYP: bliście ****** kobiety zdar    furu opisują szcząsające            z  ceny przemocy i gwałtu co    zienne życie wprowincji ********* w ctórej gwałd  jes s premydietacją stosowanej jakobroń **** mająca doprowadzić do cierpienia oraz  tygmatyzacji kobiet doroskładu spólnoty idemoralizacji całyj    społycznoś ***** ************
+           S      D            S       S                   I            S     S                    I         S                S         D        S     S    S S             S          S        S    D                                                   S                 S        S              S     S             S     D            D
+
+=== 20110926-0900-PLENARY-18-pl_20110926-22-19-08_5 (27 word errors)
+sentence 1
+REF: natomiast         moja grupa polityczna będzie głosować przeciwko temu ****** ******* sprawozdaniu przede wszystkim   dlatego że * znalazły się tam ********** takie trochę ideologiczne sformułowania o ciągłej próbie budowy wspólnej europejskiej ** tożsamości i *****     z   tego właściwie powodu      ecr   będzie głosowało przeciwko *************** sprawozdaniu
+HYP:        na tomiasnomoja grupa polityczna będzie głosować przeciwko temu temura portowi            c przedy         w skilatego że z  nalazły się tam takietocha     i   dolo       giczne  sformłowania o ciągłej próbie budowy wspólnej europejskiej to    samości i stego wasie powodu  będziemy    isj arbędzie głosował         y przeciwko panaroportowial          doc
+             S            S                                                      I       I            S      S         S         S    I        S                  I     S      S            S             S                                                I          S       I     S      S         S      S        S        S         S                         I            S
+

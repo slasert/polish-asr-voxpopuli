@@ -1,0 +1,14 @@
+{
+  "model_id": "nvidia/canary-1b-v2",
+  "revision": "d455706339a6b32e1aa40f82c713a482a0c938e2",
+  "family": "B8 pretrained AED (Canary, FastConformer encoder + Transformer decoder)",
+  "decoding": "model-card default (beam search as configured in the .nemo, pnc=yes); timestamps model not loaded (restore_timestamps_model=False)",
+  "language": "source_lang='pl', target_lang='pl'",
+  "precision": "bf16 weights",
+  "batch_size": 4,
+  "compute_seconds": 96.84,
+  "seed": 1234,
+  "trained_by_us": false,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 2231.9
+}

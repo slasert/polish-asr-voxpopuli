@@ -1,0 +1,719 @@
+{
+  "model_id": "ours: MFCC+GMM-HMM (graphemes)",
+  "revision": "n/a (trained from scratch)",
+  "family": "B1 classical MFCC + GMM-HMM",
+  "trained_by_us": true,
+  "seed": 1234,
+  "decoding": "Viterbi grapheme loop, char bigram LM, lm_weight=10.0, unit_insertion_bonus=2.0, word_boundary_bonus=8.0 (chosen on dev)",
+  "features": "13 MFCC + d + dd (39), per-speaker CMVN",
+  "toolkit": "own Python implementation (numpy/numba/torch)",
+  "train_hours": 6.78,
+  "train_seconds": 512.7580602169037,
+  "gaussians_per_state": 16,
+  "selected": "LM weight / insertion penalty by dev WER (grid in exp, copied to run info)",
+  "dev_grid": [
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9940227136879857,
+      "dev_cer": 0.4939504552538758
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9893903167961745,
+      "dev_cer": 0.4912230333852842
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.0167364016736402,
+      "dev_cer": 0.4957140513493561
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.3956963538553497,
+      "dev_cer": 0.516015913378722
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 16.0,
+      "dev_wer": 2.0511057979677227,
+      "dev_cer": 0.5614387663030104
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9908846383741782,
+      "dev_cer": 0.49241243540316626
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9910340705319785,
+      "dev_cer": 0.4929456156180789
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.1407650926479378,
+      "dev_cer": 0.5040193585431876
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.7232516437537357,
+      "dev_cer": 0.5411574112049873
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 16.0,
+      "dev_wer": 2.423341303048416,
+      "dev_cer": 0.6048929538183906
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9905857740585774,
+      "dev_cer": 0.49313017800016407
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 4.0,
+      "dev_wer": 1.017035265989241,
+      "dev_cer": 0.4999384792059716
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.4061566049013747,
+      "dev_cer": 0.526269379050119
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 12.0,
+      "dev_wer": 2.1213389121338913,
+      "dev_cer": 0.583463210565171
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 16.0,
+      "dev_wer": 2.838762701733413,
+      "dev_cer": 0.6669059141989993
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9913329348475792,
+      "dev_cer": 0.5000410138626856
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 4.0,
+      "dev_wer": 1.1430065750149432,
+      "dev_cer": 0.5154417193011238
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.7758517632994621,
+      "dev_cer": 0.5635919940940037
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 12.0,
+      "dev_wer": 2.559623430962343,
+      "dev_cer": 0.6456607333278648
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 16.0,
+      "dev_wer": 3.317095038852361,
+      "dev_cer": 0.7531785743581331
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 0.0,
+      "dev_wer": 1.018380155409444,
+      "dev_cer": 0.5143548519399557
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 4.0,
+      "dev_wer": 1.4263299462044232,
+      "dev_cer": 0.5477811500287098
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 8.0,
+      "dev_wer": 2.2302749551703527,
+      "dev_cer": 0.6229390534000492
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 12.0,
+      "dev_wer": 3.0490137477585177,
+      "dev_cer": 0.7296161102452628
+    },
+    {
+      "lm_weight": 4.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 16.0,
+      "dev_wer": 3.916168559473999,
+      "dev_cer": 0.8712779919612829
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.992080095636581,
+      "dev_cer": 0.5015790337133951
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9881948595337716,
+      "dev_cer": 0.4976622098269215
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 8.0,
+      "dev_wer": 0.9881948595337716,
+      "dev_cer": 0.49552948896727095
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.0899581589958158,
+      "dev_cer": 0.49946681978508733
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.4696652719665273,
+      "dev_cer": 0.5172258223279469
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9902869097429767,
+      "dev_cer": 0.4969854810926093
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.988344291691572,
+      "dev_cer": 0.49444262160610286
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.0089659294680215,
+      "dev_cer": 0.49489377409564433
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.259115361625822,
+      "dev_cer": 0.5080182101550323
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.7253436939629407,
+      "dev_cer": 0.5341645476170945
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9902869097429767,
+      "dev_cer": 0.4956525305553277
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9887925881649731,
+      "dev_cer": 0.4946066770568452
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.0893604303646145,
+      "dev_cer": 0.5015380198507096
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.4880454273759713,
+      "dev_cer": 0.5235009433188418
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 16.0,
+      "dev_wer": 2.0180812910938433,
+      "dev_cer": 0.5604954474612419
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9887925881649731,
+      "dev_cer": 0.49380690673447625
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 4.0,
+      "dev_wer": 1.0064255827854154,
+      "dev_cer": 0.498010827659749
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.2624028690974298,
+      "dev_cer": 0.51482651136084
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.766288105200239,
+      "dev_cer": 0.5459150192765154
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 16.0,
+      "dev_wer": 2.3263598326359833,
+      "dev_cer": 0.5985152981707818
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9914823670053795,
+      "dev_cer": 0.4978877860716922
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 4.0,
+      "dev_wer": 1.0856246264196054,
+      "dev_cer": 0.5084078418505454
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.5119545726240287,
+      "dev_cer": 0.5351898941842342
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 12.0,
+      "dev_wer": 2.0977286312014347,
+      "dev_cer": 0.584857681896481
+    },
+    {
+      "lm_weight": 6.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 16.0,
+      "dev_wer": 2.673042438732815,
+      "dev_cer": 0.6529201870232139
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9916317991631799,
+      "dev_cer": 0.5115659092773357
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9890914524805738,
+      "dev_cer": 0.5075670576654909
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 8.0,
+      "dev_wer": 0.9847579199043635,
+      "dev_cer": 0.5036092199163317
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.0028392109982067,
+      "dev_cer": 0.5025018456238208
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.1721458457860132,
+      "dev_cer": 0.5077926339102616
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9908846383741782,
+      "dev_cer": 0.5066442457550652
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9887925881649731,
+      "dev_cer": 0.5028914773193339
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 8.0,
+      "dev_wer": 0.9861028093245666,
+      "dev_cer": 0.49989746534328605
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.0576808129109385,
+      "dev_cer": 0.5025633664178493
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.3353257621040049,
+      "dev_cer": 0.5133910261668444
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9905857740585774,
+      "dev_cer": 0.5033016159461898
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.985803945008966,
+      "dev_cer": 0.4996718890985153
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.0023909145248058,
+      "dev_cer": 0.4992207366089738
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.173341303048416,
+      "dev_cer": 0.5072594536953491
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.5348176927674835,
+      "dev_cer": 0.5228652284472152
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9890914524805738,
+      "dev_cer": 0.49926175047165944
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9877465630603706,
+      "dev_cer": 0.49811336231646297
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.0575313807531381,
+      "dev_cer": 0.502481338692478
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.346234309623431,
+      "dev_cer": 0.5162619965548355
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.7510460251046025,
+      "dev_cer": 0.5396193913542777
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9877465630603706,
+      "dev_cer": 0.4980518415224346
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 4.0,
+      "dev_wer": 1.0032875074716079,
+      "dev_cer": 0.5011688950865393
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.1764793783622236,
+      "dev_cer": 0.5114018538265934
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.564106395696354,
+      "dev_cer": 0.5324829792469855
+    },
+    {
+      "lm_weight": 8.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 16.0,
+      "dev_wer": 2.0005977286312016,
+      "dev_cer": 0.5644737921417439
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9926778242677824,
+      "dev_cer": 0.5271101632351735
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9907352062163778,
+      "dev_cer": 0.5221064719875318
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 8.0,
+      "dev_wer": 0.9881948595337716,
+      "dev_cer": 0.5177795094742023
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 12.0,
+      "dev_wer": 0.9874476987447699,
+      "dev_cer": 0.5147034697727833
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 0.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.0448296473401075,
+      "dev_cer": 0.5136166024116151
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.992080095636581,
+      "dev_cer": 0.5189894184234272
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9902869097429767,
+      "dev_cer": 0.5142523172832417
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 8.0,
+      "dev_wer": 0.9844590555887627,
+      "dev_cer": 0.5098843409072267
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.001643753735804,
+      "dev_cer": 0.5087154458206874
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 2.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.1276150627615062,
+      "dev_cer": 0.511545402345993
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9911835026897788,
+      "dev_cer": 0.5128578459519317
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.988344291691572,
+      "dev_cer": 0.508858994340087
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 8.0,
+      "dev_wer": 0.9877465630603706,
+      "dev_cer": 0.506664752686408
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.0410938433950987,
+      "dev_cer": 0.507361988352063
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 4.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.2510460251046025,
+      "dev_cer": 0.5134115330981872
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9902869097429767,
+      "dev_cer": 0.5091460913788861
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9859533771667663,
+      "dev_cer": 0.5056804199819539
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.0014943215780037,
+      "dev_cer": 0.505270281355098
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.1280633592349074,
+      "dev_cer": 0.508551390369945
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 6.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.409593544530783,
+      "dev_cer": 0.5196251332950538
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 0.0,
+      "dev_wer": 0.9877465630603706,
+      "dev_cer": 0.5066237388237225
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 4.0,
+      "dev_wer": 0.9874476987447699,
+      "dev_cer": 0.5061110655401526
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 8.0,
+      "dev_wer": 1.044530783024507,
+      "dev_cer": 0.508551390369945
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 12.0,
+      "dev_wer": 1.2574716078900179,
+      "dev_cer": 0.5161799688294644
+    },
+    {
+      "lm_weight": 10.0,
+      "insertion_penalty": 8.0,
+      "word_bonus": 16.0,
+      "dev_wer": 1.585475194261805,
+      "dev_cer": 0.5318062505126733
+    }
+  ],
+  "compute_seconds": 5.91,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 68.0
+}

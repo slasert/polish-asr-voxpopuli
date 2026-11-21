@@ -1,0 +1,60 @@
+=== 20131021-0900-PLENARY-9-pl_20131021-18-25-11_9 (221 word errors)
+sentence 1
+REF: * ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** koncerny również odpowiadają    za politykę klimatyczną
+HYP: i nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco    nieco   nieco       nieco nieco    nieco         nie
+     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I        S       S           S     S        S           S
+
+=== 20151125-0900-PLENARY-16-pl_20151125-16-59-57_0 (14 word errors)
+sentence 1
+REF:      w mojej wypowiedzi szanowny kolego nie było żadnego stwierdzenia   że zbyt wiele pieniędzy wydajemy na
+HYP: czasem ***** ********** ******** ****** nie   ma żadnych            z nich **** ***** ********* ******** **
+          S     D          D        D      D        S       S            S    S    D     D         D        D  D
+
+=== 20131022-0900-PLENARY-14-pl_20131022-16-03-00_3 (13 word errors)
+sentence 1
+REF: * powinniśmy z nią walczyć nie tylko   przez ściganie karne ale      w     dużej mierze i przede wszystkim nawet przez zapobieganie korupcji **********      przez eliminowanie mechanizmów korupcjogennych patologii występujących np
+HYP: i powinniśmy z nią walczyć nie tylko poprzez ściganie karne ale przede wszystkim ****** * przede wszystkim nawet przez zapobieganie korupcji porównanie mechanizmu     korupcji   ogiennych            tych patologii ************* **
+     I                                          S                         S         S      D D                                                             I          S            S           S               S                       D  D
+
+=== 20171004-0900-PLENARY-7-pl_20171004-12-54-41_0 (13 word errors)
+sentence 1
+REF:  pani przewodnicząca oczywiście popieram w projekcie rezolucji * wyeliminowanie możliwości zawierania małżeństw przez dzieci jakie dotyczy zwłaszcza środowisk imigranckich i przynajmniej w naszej kulturze chrześcijańskiej europejskiej *** * ******* * traktowane jest od dawna jako przemoc *     i przestępstwo istniejące także w prawie międzynarodowym
+HYP: merem          krópa oczywiście popieram w projekcie rezolucji w   eliminowanie możliwości zawierania    małżeń przez dzieci jakie dotyczy zwłaszcza środowisk imigranckich i przynajmniej w naszej kulturze chrześcijańskiej europejskiej jak i przemoc a traktowany jest od dawna jako przemoc a przez       tęstwo istniejące także w prawie międzynarodowym
+         S              S                                           I              S                               S                                                                                                                              I I       I I          S                            I     S            S                                          
+
+=== 20130611-0900-PLENARY-3-pl_20130611-09-06-00_8 (12 word errors)
+sentence 1
+REF: * ******* * przede wszystkim dotyczy różnych spornych kwestii w zakresie żywności dla niemowląt oraz właśnie dla tych specyficznych grup które wymagają absolutnie innego sposobu przygotowania żywności preparatów       które są stosowane szczególną grupą tutaj są  wcześniaki i dzieci * najmłodsze
+HYP: w związku z    tym wszystkim dotyczy różnych spornych kwestii w zakresie żywności dla niemowląd oraz właśnie dla tych specyficznych grup które wymagają ********** innego sposobu przygotowania żywności preparatów stosowanych ** ********* szczególną grupą ***** są szcześniaki i dzieci w najmłodsze
+     I       I I      S                                                                            S                                                                  D                                                            S  D         D                      D              S          I           
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_0 (12 word errors)
+sentence 1
+REF: panie przewodniczący właśnie dlatego że unia europejska pretenduje do roli światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie pomagać kobietom w godzeniu ich powołania żony i matki
+HYP: ***** przewodniczący właśnie dlatego że unia europejska pretenduje do **** światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne  mężczyz i kobiet i prawnie ******* ******** * ******** *** ********* **** * *****
+         D                                                                    D                                                                                                                                              S                          D        D D        D   D         D    D D     D
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_3 (12 word errors)
+sentence 1
+REF: ze szwedzkich badań prowadzonych kilka lat temu   wynika że ojcowie na   urlopach wychowawczych      woleli   polować na łosia albo   oglądać telewizję i   czytać gazety niż   zajmować się dzieckiem
+HYP: ze szwedzkich badań prowadzonych kilka lat temu wynikało że ojcewie na urlopowych     owawczych preferowali polowanie na łosie albo oglądanie telewizji i czytanie  gazet niż zajmowanie się dzieckiem
+                                                            S          S             S             S           S         S        S              S         S          S      S              S              
+
+=== 20090312-0900-PLENARY-16-pl_20090312-15-51-07_11 (11 word errors)
+sentence 1
+REF: parlament europejski w swojej rezolucji zwraca się do onz oraz międzynarodowego trybunału   karnego               o zbadanie na ile ostatnia decyzja ******* sudańskiego    przywódcy nie wyczerpuje * znamion zbrodni wojennej      w świetle prawa międzynarodowego
+HYP: parlament europejski * swojej rezolucji zwraca się do onz oraz międzynarodowego trybunału przysunek przewodniczącym ******** na ile ostatnia decyzja sygnału     sygnału kryminalnego nie wyczerpuje z   namią zbrodni wojennej śledle ******* prawa międzynarodowego
+                          D                                                                            S               S        D                               I           S            S                I       S                       S       D                       
+
+=== 20110926-0900-PLENARY-18-pl_20110926-22-19-08_5 (11 word errors)
+sentence 1
+REF: natomiast ** moja grupa polityczna będzie głosować przeciwko temu sprawozdaniu przede wszystkim dlatego że znalazły się tam takie trochę ideologiczne sformułowania o ciągłej próbie budowy wspólnej europejskiej ** tożsamości i z tego ****** właściwie powodu  ecr będzie głosowało przeciwko **** sprawozdaniu
+HYP: natomiast na moja grupa polityczna będzie głosować przeciwko temu sprawozdaniu przede wszystkim dlatego że znalazły się tam takie ****** ideologiczne sformułowania o ciągłej próbie budowy wspólnej europejskiej to    samości i z tego powodu  będziemy      i ciar będzie  głosował przeciwko pana    raportowi
+                I                                                                                                                           D                                                                           I          S               I         S      S    S                S              I            S
+
+=== 20131021-0900-PLENARY-12-pl_20131021-20-34-35_2 (11 word errors)
+sentence 1
+REF:  opinia ta dotyczyła prekursorów narkotyków z jednej strony mamy do czynienia ze zorganizowanymi grupami ***** przestępczymi     i gwałtownie rosnącym rynkiem narkotyków  syntetycznych w europie czego nie możemy lekceważyć
+HYP: zresztą są ********* prekursorów narkotyków z jednej strony mamy do czynienia  z  organizowanymi grupami przez           tym czymś  gwałtowni rozsącym rynkiem narkotyków siedzycycznych w europie czego nie możemy lekceważyć
+           S  S         D                                                           S               S             I             S     S          S        S                                 S                                      
+

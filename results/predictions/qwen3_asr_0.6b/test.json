@@ -1,0 +1,14 @@
+{
+  "model_id": "Qwen/Qwen3-ASR-0.6B",
+  "revision": "5eb144179a02acc5e5ba31e748d22b0cf3e303b0",
+  "family": "B10 pretrained audio-LLM ASR (Qwen3-ASR)",
+  "decoding": "model-card default (transformers backend, greedy)",
+  "language": "language='Polish'",
+  "precision": "bf16",
+  "batch_size": 8,
+  "compute_seconds": 276.88,
+  "seed": 1234,
+  "trained_by_us": false,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 2920.6
+}

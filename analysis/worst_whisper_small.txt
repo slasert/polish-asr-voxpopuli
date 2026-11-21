@@ -1,0 +1,60 @@
+=== 20131021-0900-PLENARY-9-pl_20131021-18-25-11_9 (221 word errors)
+sentence 1
+REF: * ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** koncerny również odpowiadają    za politykę klimatyczną
+HYP: i nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco nieco    nieco   nieco       nieco nieco    nieco         nie
+     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I     I        S       S           S     S        S           S
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_0 (20 word errors)
+sentence 1
+REF: **** ********* ***** * ***** ***** ******** ****** panie przewodniczący właśnie dlatego że unia europejska pretenduje do roli światowego lidera jeśli chodzi o prawa kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne mężczyzn i kobiet i prawnie pomagać kobietom w godzeniu ich powołania żony i matki
+HYP: logo echizaena lepto i kiria krupa dziękuję bardzo panie przewodniczący właśnie dlatego że unia europejska pretenduje do **** światowego lidera jeśli chodzi o prawo kobiet powinniśmy w ramach realizacji tego uprawnienia zwracać uwagę na różnice psychofizyczne  mężczyz i kobiet i prawnie ******* ******** * ******** *** ********* **** * *****
+        I         I     I I     I     I        I      I                                                                          D                                      S                                                                                                       S                          D        D D        D   D         D    D D     D
+
+=== 20151125-0900-PLENARY-16-pl_20151125-16-59-57_0 (15 word errors)
+sentence 1
+REF:  w mojej wypowiedzi szanowny kolego nie było żadnego stwierdzenia że zbyt wiele pieniędzy wydajemy na
+HYP: ok ***** ********** ******** ****** *** **** ******* ************ ** **** ***** ********* ******** **
+      S     D          D        D      D   D    D       D            D  D    D     D         D        D  D
+
+=== 20110926-0900-PLENARY-18-pl_20110926-22-19-08_5 (12 word errors)
+sentence 1
+REF: natomiast moja grupa polityczna będzie głosować przeciwko temu sprawozdaniu przede wszystkim dlatego że znalazły się tam takie trochę ideologiczne sformułowania o ciągłej próbie budowy wspólnej europejskiej ** tożsamości i z tego ****** właściwie powodu ecr będzie głosowało przeciwko **** ********* *** sprawozdaniu
+HYP: natomiast moja grupa polityczna będzie głosować przeciwko temu    raportowi przede wszystkim dlatego że znalazły się tam takie trochę ideologiczne sformułowania o ciągłej próbie budowy wspólnej europejskiej to    samości i z tego powodu  będziemy      i  cr będzie  głosował przeciwko pana raportowi ale           do
+                                                                               S                                                                                                                                     I          S               I         S      S   S                S              I         I   I            S
+
+=== 20170313-0900-PLENARY-11-pl_20170313-20-40-14_3 (12 word errors)
+sentence 1
+REF: ze szwedzkich badań prowadzonych kilka lat temu    wynika że  ojcowie na   urlopach wychowawczych      woleli   polować na łosia albo   oglądać telewizję i   czytać gazety niż   zajmować się dzieckiem
+HYP: ze szwedzkich badań prowadzonych kilka lat temu wilnikało że ojczowie na urlopowych     owawczych preferowali polowanie na łosie albo oglądanie telewizji i czytanie  gazet niż zajmowanie się dzieckiem
+                                                             S           S             S             S           S         S        S              S         S          S      S              S              
+
+=== 20170404-0900-PLENARY-11-pl_20170404-13-05-41_1 (11 word errors)
+sentence 1
+REF: głosowaliśmy za sprawozdaniem próbującym uregulować problem określany katastrofą ekologiczną xxi wieku skutkujący  zatruciem i chorobami ludzi w indonezji borneo na sumatrze i na przyległych obszarach zniszczeniem zwierząt      w      wyniku wylesiania i wypalaniem lasów tropikalnych pod uprawy oleju palmowego stosowanego
+HYP: głosowaliśmy za      raportem próbującym uregulować problem określany katastrofą ekologiczną xxi wieku skutkujący zatruciemi * chorobami ludzi w indonezji     bo na sumatrze * ** przyległych obszarach zniszczeniem zwierząt skutek wyleśniania ********** i wypalaniem lasów trapikalnych pod uprawę oleju palmowego stosowanego
+                                 S                                                                                              S D                                  S             D  D                                                  S           S          D                               S          S                            
+
+=== 20131021-0900-PLENARY-12-pl_20131021-20-34-35_2 (10 word errors)
+sentence 1
+REF: opinia ta dotyczyła prekursorów narkotyków z jednej strony mamy do czynienia ze zorganizowanymi grupami ***** *** przestępczymi i gwałtownie rosnącym rynkiem narkotyków    syntetycznych w europie czego nie możemy lekceważyć
+HYP: ****** ** ********* *********** ********** z jednej strony mamy do czynienia ** zorganizowanymi grupami przez tym          czym i gwałtownie rosnącym rynkiem narkotyków sienterecycznych w europie czego nie możemy lekceważyć
+          D  D         D           D          D                                    D                             I   I             S                                                         S                                      
+
+=== 20131023-0900-PLENARY-13-pl_20131023-18-33-01_5 (10 word errors)
+sentence 1
+REF: z drugiej strony chciałem powiedzieć że znając trochę ***** rosjan federację rosyjską i politykę rosyjską i to jak traktuje takie sprawy jak platformy wiertnicze czy inne instalacje i urządzenia to można by powiedzieć że dobrze **    iż skończyło się        to tylko na tym
+HYP: z drugiej strony chciałem powiedzieć że znając trochę rosja      i federacja rosyjską i politykę rosyjską i to jak traktuje takie sprawy jak platformy wiertnicze czy inne instalacje i urządzenia to można by powiedzieć że dobrze że tylko       tak się skończyło ***** ** ***
+                                                               I      S         S                                                                                                                                                         I     S         S             S     D  D   D
+
+=== 20140915-0900-PLENARY-13-pl_20140915-17-16-55_15 (9 word errors)
+sentence 1
+REF: większość rolników szczególnie drobnych w nowych       państwach członkowskich nie przynależy jeszcze do  grup producentów czy * zrzeszeń branżowych dlatego nie należy różnicować poziomu wsparcia pomiędzy rolnikami zrzeszonymi a niezrzeszonymi
+HYP: większość rolników szczególnie drobnych w nowych karczonkowskich ************* nie przynależy jeszcze do grupy  lucenskich czy z  rzeszej branżowych dlatego nie należy  różicować poziomu wsparcia pomiędzy  rolikami zrzeszonymi i niezrzeszonymi
+                                                                    S             D                               S           S     I        S                                        S                                   S             S               
+
+=== 20140915-0900-PLENARY-13-pl_20140915-17-16-55_18 (9 word errors)
+sentence 1
+REF:    w imieniu komisji  agri chcielibyśmy prosić pana o przekazanie  posłom do parlamentu europejskiego aktualnych informacji o działaniach już podjętych i planowanych przez komisję europejską
+HYP: wyni komisji   aglii czyli        byśmy prosił pana o przekazanie postwom do parlamentu europejskiego aktualnych informacji o   działaniu   w podjętych i planowanych przez komisję europejską
+        S       S       S     S            S      S                          S                                                               S   S                                                 
+

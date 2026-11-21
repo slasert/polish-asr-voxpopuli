@@ -1,0 +1,21 @@
+ref,hyp,count,type
+np,przykład,3,other
+kary,kar,2,other
+przez,poprzez,2,other
+tzw,zwane,2,other
+niezgoda,zgoda,1,other
+kiedy,gdy,1,other
+tej,i,1,other
+dziedzinie,badaniach,1,other
+też,iż,1,other
+czym,tym,1,other
+drenażowi,drynażowi,1,other
+trzyprocentowy,procent,1,other
+oddziałuje,oddziaływuje,1,"inflection (same stem, different ending)"
+umowny,czado,1,other
+go,je,1,other
+nie,nieprawda,1,other
+karnego,kryminalnego,1,other
+świetle,śledztwie,1,other
+przywódcy,przywódcę,1,"inflection (same stem, different ending)"
+wstrząsające,szcząsające,1,other
