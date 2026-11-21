@@ -1,0 +1,3 @@
+# data/ is stored and checked out byte-for-byte (no line-ending conversion), so a fresh clone
+# matches what scripts/02_clean.py and 03_split.py write and the determinism test can pass
+data/** -text
