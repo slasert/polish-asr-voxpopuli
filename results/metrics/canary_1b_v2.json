@@ -45,7 +45,7 @@
     },
     "audio_seconds": 3225.806,
     "rtfx": 33.31,
-    "commit": "uncommitted"
+    "commit": "0c43d1d73b85ddeb4b1a4d7fdc1ef90b204104ea"
   },
   "test": {
     "system": "canary_1b_v2",
@@ -93,6 +93,6 @@
     },
     "audio_seconds": 3182.267,
     "rtfx": 40.26,
-    "commit": "uncommitted"
+    "commit": "0c43d1d73b85ddeb4b1a4d7fdc1ef90b204104ea"
   }
 }

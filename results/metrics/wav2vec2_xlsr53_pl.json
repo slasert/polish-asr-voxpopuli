@@ -45,7 +45,7 @@
     },
     "audio_seconds": 3225.806,
     "rtfx": 150.67,
-    "commit": "uncommitted"
+    "commit": "0c43d1d73b85ddeb4b1a4d7fdc1ef90b204104ea"
   },
   "test": {
     "system": "wav2vec2_xlsr53_pl",
@@ -93,6 +93,6 @@
     },
     "audio_seconds": 3182.267,
     "rtfx": 147.81,
-    "commit": "uncommitted"
+    "commit": "0c43d1d73b85ddeb4b1a4d7fdc1ef90b204104ea"
   }
 }

@@ -500,9 +500,9 @@ code license does not cover the data.
 - Confirm the mother-tongue rule and that no other group uses Polish or VoxPopuli; log it in
   `docs/decisions.md`.
 - Manual audit: listen to 100 random cleaned clips, record the label error rate, add it to Section 4.
-- After the first commit, re-score every system so each metrics JSON records the real commit hash
-  instead of `uncommitted` (no model is re-run; this only re-reads `results/predictions/`), then
-  regenerate the tables and commit:
+- Done: every metrics JSON was re-scored after the first commit and records commit `0c43d1d`
+  (only the `commit` field changed). If the code changes again, re-score the same way
+  (no model is re-run; this only re-reads `results/predictions/`):
   `for s in $(ls results/predictions); do for sp in dev test; do [ -f results/predictions/$s/$sp.tsv ] && python scripts/score.py --system $s --split $sp; done; done; python scripts/make_tables.py`
 - On the machine used here, `tests/test_data_clean.py::test_cleaning_is_deterministic` could not
   rewrite `data/cleaning_log.csv` (a local security filter denied Python write access to that one

@@ -68,7 +68,7 @@
     },
     "audio_seconds": 3225.806,
     "rtfx": 846.67,
-    "commit": "uncommitted"
+    "commit": "0c43d1d73b85ddeb4b1a4d7fdc1ef90b204104ea"
   },
   "test": {
     "system": "e2e_ctc",
@@ -139,6 +139,6 @@
     },
     "audio_seconds": 3182.267,
     "rtfx": 685.83,
-    "commit": "uncommitted"
+    "commit": "0c43d1d73b85ddeb4b1a4d7fdc1ef90b204104ea"
   }
 }
