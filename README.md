@@ -504,7 +504,7 @@ code license does not cover the data.
   (only the `commit` field changed). If the code changes again, re-score the same way
   (no model is re-run; this only re-reads `results/predictions/`):
   `for s in $(ls results/predictions); do for sp in dev test; do [ -f results/predictions/$s/$sp.tsv ] && python scripts/score.py --system $s --split $sp; done; done; python scripts/make_tables.py`
-- On the machine used here, `tests/test_data_clean.py::test_cleaning_is_deterministic` could not
-  rewrite `data/cleaning_log.csv` (a local security filter denied Python write access to that one
-  file). Determinism was checked instead by running `02_clean.py` into a scratch folder: all 3,107
-  cleaned files and the log were byte-identical. Run the test on a normal machine before submitting.
+- Done: on a fresh clone of the repository all 30 tests pass, including
+  `tests/test_data_clean.py::test_cleaning_is_deterministic` (re-running `02_clean.py` leaves
+  `git status` clean). `.gitattributes` keeps `data/` byte-exact, because Git for Windows would
+  otherwise convert `data/cleaning_log.csv` to CRLF on checkout and break the comparison.
