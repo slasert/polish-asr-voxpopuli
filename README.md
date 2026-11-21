@@ -85,8 +85,9 @@ Summary of `data/cleaning_log.csv`:
 | **total removed** | | **416** of 3522 | **1.320** of 9.88 |
 <!-- END:cleaning -->
 
-**Manual audit:** not done yet — listening to a random sample of 100 cleaned clips and
-recording the label error rate is assigned to the data owner (see "Open items").
+<!-- BEGIN:audit -->
+**Manual audit:** not done yet. `scripts/05_audit.py sample` drew 100 random cleaned clips (`data/audit/audit_sample.tsv`); a team member listens to them in `data/audit/listen.html`, saves `data/audit/audit_results.csv` and runs `scripts/05_audit.py report`.
+<!-- END:audit -->
 
 ## 5. Splits
 
@@ -414,6 +415,8 @@ python scripts/01_download.py --cache /tmp/vp     # optional: rebuilds data/raw 
 python scripts/02_clean.py                         # data/raw -> data/cleaned + data/cleaning_log.csv
 python scripts/03_make_splits.py                   # data/splits/{train,dev,test}.tsv
 python scripts/04_split_stats.py                   # results/tables/split_stats.md
+python scripts/05_audit.py sample                  # 100 random cleaned clips -> data/audit/ (manual audit)
+python scripts/05_audit.py report                  # after listening: results/tables/audit.md
 # pretrained baselines (B5-B10): vanilla, nothing tuned, so dev and then test per model
 # (only the best-on-dev HuBERT seed is run on test; docs/decisions.md D9)
 for s in wav2vec2_xlsr53_pl hubert_large_pl_s6 hubert_large_pl_s484 hubert_large_pl_s995 \
@@ -457,8 +460,9 @@ them into `exp/` (git-ignored). Predictions for every system and split are commi
 | `data/raw/` | raw clips exactly as in the parquet files, `metadata.tsv`, `CHECKSUMS.sha256` |
 | `data/cleaned/` | cleaned 16-bit FLAC clips and `metadata.tsv` (normalized + orthographic transcript) |
 | `data/splits/` | `train.tsv`, `dev.tsv`, `test.tsv` (utt_id, path, speaker, gender, duration, text, text_orth) |
+| `data/audit/` | manual label audit: `audit_sample.tsv` (100 random cleaned clips, seed 1234), `listen.html` (listening page), `audit_results.csv` (the listener's verdicts, once done) |
 | `data/cleaning_log.csv` | every removed or fixed clip with reason code and detail |
-| `scripts/` | data pipeline (`01`–`04`), `run_baseline.py`, `score.py`, `bootstrap.py`, `collect_training_logs.py`, `make_tables.py`, `check_submission.py` |
+| `scripts/` | data pipeline (`01`–`04`), manual audit (`05_audit.py`), `run_baseline.py`, `score.py`, `bootstrap.py`, `collect_training_logs.py`, `make_tables.py`, `check_submission.py` |
 | `src/` | `normalize.py` (the one normalizer), `eval/metrics.py` (WER/CER), `asr_io.py`, `config.py` |
 | `baselines/pretrained/` | B5–B10 inference code with pinned model revisions |
 | `baselines/trained/` | B1 GMM-HMM and B2–B4 neural recipes |
@@ -499,7 +503,10 @@ code license does not cover the data.
   the members table above.
 - Confirm the mother-tongue rule and that no other group uses Polish or VoxPopuli; log it in
   `docs/decisions.md`.
-- Manual audit: listen to 100 random cleaned clips, record the label error rate, add it to Section 4.
+- Manual audit (Section 4): the 100 clips are already drawn. Open `data/audit/listen.html` in
+  Chrome or Edge, listen to every clip, choose a verdict, click *Download CSV*, save it as
+  `data/audit/audit_results.csv`, then run `python scripts/05_audit.py report` and
+  `python scripts/make_tables.py`. The error rate is computed by the script, never typed in.
 - Done: every metrics JSON was re-scored after the first commit and records commit `0c43d1d`
   (only the `commit` field changed). If the code changes again, re-score the same way
   (no model is re-run; this only re-reads `results/predictions/`):

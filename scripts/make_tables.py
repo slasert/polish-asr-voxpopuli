@@ -140,6 +140,11 @@ def blocks():
     b = {"cleaning": table_cleaning(), "split_stats": (TABLES / "split_stats.md").read_text(encoding="utf-8").split("\n", 2)[2].strip(),
          "table_a": table_a(), "hubert_dev": table_hubert_dev(), "table_b": table_b(), "table_c": table_c(),
          "bootstrap": table_bootstrap(), "unseen": table_unseen()}
+    audit = TABLES / "audit.md"
+    b["audit"] = (audit.read_text(encoding="utf-8").strip() if audit.exists() else
+                  "**Manual audit:** not done yet. `scripts/05_audit.py sample` drew 100 random cleaned clips "
+                  "(`data/audit/audit_sample.tsv`); a team member listens to them in `data/audit/listen.html`, "
+                  "saves `data/audit/audit_results.csv` and runs `scripts/05_audit.py report`.")
     analysis = ROOT / "analysis" / "summary.md"
     if analysis.exists():
         b["analysis"] = analysis.read_text(encoding="utf-8").strip()
@@ -166,7 +171,7 @@ def main():
         print("README tables match results/")
         return
     for name, content in bl.items():
-        if name not in ("split_stats", "analysis"):  # those files are owned by other scripts
+        if name not in ("split_stats", "analysis", "audit"):  # those files are owned by other scripts
             (TABLES / f"{name}.md").write_text(content + "\n", encoding="utf-8")
     README.write_text(new, encoding="utf-8")
     print("tables written:", ", ".join(bl))
